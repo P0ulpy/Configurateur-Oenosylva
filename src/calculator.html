@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Calculateur Oenosylva</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <script type="text/javascript" src="vendors/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="Calculator.js"></script>
+
+</head>
+
+<body>
+
+    <noscript>This Page requires Javascript. Enable Javascript and reload this page to continue.</noscript>
+
+    <div id="calculator-container"></div>
+
+    <script type="text/javascript">
+
+        const dataPaths = {
+            "fr-FR": {
+                configPath: "./data/fr-FR/configuratorConfig-fr-FR.json",
+                treePath: "./data/fr-FR/posibilitiesTree-fr-FR.json",
+                productsPath: "./data/fr-FR/products-fr-FR.json",
+                productsTypePath: "./data/fr-FR/products-type-fr-FR.json",
+                productsLinePath: "./data/fr-FR/products-line-fr-FR.json"
+            },
+            "en-US": {
+                configPath: "./data/en-US/configuratorConfig-en-US.json",
+                treePath: "./data/en-US/posibilitiesTree-en-US.json",
+                productsPath: "./data/en-US/products-en-US.json",
+                productsTypePath: "./data/en-US/products-type-en-US.json",
+                productsLinePath: "./data/en-US/products-line-en-US.json"
+            }
+        }
+
+        const pathes = dataPaths[parent.document.querySelector('html').getAttribute("lang")] || dataPaths["fr-FR"];
+
+        $('#calculator-container').empty();
+        document.calculator = new Calculator.default('#calculator-container', pathes);
+        
+    </script>
+
+</body>
+
+</html>

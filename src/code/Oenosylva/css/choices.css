@@ -1,0 +1,222 @@
+.choice-container {
+    border-top: solid 1px; 
+    border-color: #CB8827;
+    margin-bottom: 0rem !important;
+}
+
+.choice-title-number {
+    margin-right: 0.3rem;
+    color: #CB8827;
+}
+
+.choice-title-text {
+    color: white;
+}
+
+/* choice-buttons-container */
+
+.choice-buttons-container {
+    padding-left: 0rem !important;
+    padding-right: 0rem !important;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+/* choice-buttons-container */
+
+/* column-button-container */
+
+.column-buttons-container {
+    padding-left: 0rem !important;
+    padding-right: 0rem !important;
+}
+
+/* column-button-container */
+
+
+/* column-button */
+
+.column-button {
+
+    font-size: 12pt;
+    color: white;
+    background-color: #231F20;
+    text-transform: uppercase;
+
+    border: solid 1px;
+    border-color: white;
+    
+    margin: 0.3em !important;
+    padding: 0.5em !important;
+
+    cursor: pointer;
+
+    opacity: 1.0;
+    transition: opacity 1s ease-in-out;
+    -moz-transition: opacity 1s ease-in-out;
+    -webkit-transition: opacity 1s ease-in-out;
+}
+
+.column-button:hover {
+    background-color: #CB8827;
+    color: #231F20;
+    
+    opacity: 1;
+
+}
+
+.column-button.clicked {
+    background-color: #CB8827;
+    border-color: #CB8827;
+    color: #231F20;
+}
+
+.column-button.clicked:hover {
+    
+}
+
+/* column-button */
+
+/* wine-button */
+
+.wine-button {
+    color: white;
+    text-transform: uppercase;
+    border: solid 1px;
+    border-color: #231F20;
+    height: 15rem;
+}
+
+.wine-button:hover {
+    border-color: #CB8827;
+}
+
+.wine-button.clicked {
+    border-color: #CB8827;
+}
+
+/* wine-button */
+
+/* apport-button */
+
+.apport-button {
+    color: white;
+    border: solid 1px;
+    border-color: white;
+    text-transform: uppercase;
+    text-align: center;
+
+    margin: 1%;
+
+    cursor: pointer;
+    width: 31%;
+    height: 15rem;
+}
+
+.apport-button:hover {
+    background-color: #CB8827;
+    color: #231F20;
+}
+
+.apport-button.clicked {
+    border-color: #CB8827;
+    background-color: #CB8827;
+    color: #231F20;
+}
+
+.apport-button-img {
+    margin-top: 30%;
+    height: 2rem;
+}
+
+/* apport-button */
+
+/* s */
+@media only screen and (min-width: 0px) {
+    .choice-title-number {
+        font-size: 55pt;
+    }
+
+    .choice-title-text {
+        font-size: 16pt;
+        margin-bottom: 1rem;
+        margin-top: 1rem;
+    }
+
+    .apport-button {
+        padding: 0rem !important;
+        height: 10rem;
+    }
+
+    .apport-button-img {
+        padding: 0rem !important;
+        height: 4rem;
+    }
+
+    .apport-button-text {
+        padding: 0rem !important;
+        font-size: 8pt;
+    }
+
+    .column-button {}
+}
+
+/* m */
+@media only screen and (min-width: 992px) {
+    
+    .choice-title-number {
+        font-size: 60pt;
+    }
+
+    .choice-title-text {
+        margin-right: 2rem;
+
+        margin-bottom: 0rem;
+        margin-top: 0rem;
+    }
+
+    .apport-button {
+        height: 15rem;
+    }
+
+    .apport-button-img {
+        height: 6rem;
+    }
+
+    .apport-button-text {
+        font-size: 10pt;
+    }
+
+    .column-button {}
+
+    .wine-button {
+        font-size: 9pt;
+        padding-left: 0.1rem !important;
+        padding-right: 0.1rem !important;
+        width: 20% !important;
+    }
+}
+
+/* l */
+@media only screen and (min-width: 1200px) {
+
+    .choice-title-number {
+        font-size: 70pt;
+    }
+
+    .choice-title-text {
+        font-size: 20pt;
+    }
+
+    .apport-button {
+        height: 15rem;
+    }
+
+    .apport-button-img {
+        height: 5rem;
+    }
+
+    .apport-button-text {
+        font-size: 13pt;
+    }
+}

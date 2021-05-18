@@ -1,0 +1,145 @@
+[{
+    "label": "Apport aromatique",
+    "implementations": [{
+        "label": "Vinification",
+        "contactTimes": [{
+            "label": "Jusqu'à 3 mois",
+            "products": ["Granulats Flavors", "Copeaux Flavors Assemblage Chauffe Légère et Moyenne", "Dominos Classic Assemblage Chauffe Blonde et Moyenne", "Blocks Flavors Assemblage Chauffe Légère et Moyenne"]
+        }]
+    }, {
+        "label": "Elevage après fermentation",
+        "contactTimes": [{
+            "label": "Jusqu'à 3 mois",
+            "products": ["Copeaux Flavors Assemblage Chauffe Légère et Moyenne", "Dominos Classic Assemblage Chauffe Blonde et Moyenne", "Blocks Flavors Assemblage Chauffe Légère et Moyenne"]
+        }, {
+            "label": "De 4 à 6 mois",
+            "products": ["Blocks Flavors Assemblage Chauffe Légère et Moyenne", "Dominos Classic Assemblage Chauffe Blonde et Moyenne"]
+        }, {
+            "label": "De 6 à 10 mois",
+            "products": ["Staves Flavors Chauffe Légère", "Staves Flavors Chauffe Moyenne"]
+        }, {
+            "label": "10 mois et plus",
+            "products": ["Staves 18 Flavors Chauffe Légère", "Staves 18 Flavors Chauffe Moyenne"]
+        }]
+    }, {
+        "label": "Elevage Barrique",
+        "contactTimes": [{
+            "label": "De 4 à 6 mois",
+            "products": ["Inserts 25% Flavors Blonde ", "Inserts 45% Flavors Blonde", "Inserts 45% Flavors Moyenne", "Inserts 45% Flavors Moyenne"]
+        }, {
+            "label": "De 6 à 10 mois",
+            "products": ["Inserts 25% Flavors Blonde ", "Inserts 45% Flavors Blonde", "Inserts 45% Flavors Moyenne", "Inserts 45% Flavors Moyenne"]
+        }, {
+            "label": "10 mois et plus",
+            "products": ["Inserts 25% Flavors Blonde ", "Inserts 45% Flavors Blonde", "Inserts 45% Flavors Moyenne", "Inserts 45% Flavors Moyenne"]
+        }]
+    }]
+}, {
+    "label": "Apport structurant",
+    "implementations": [{
+        "label": "Vinification",
+        "contactTimes": [{
+            "label": "Jusqu'à 3 mois",
+            "products": ["Granulats Flavors", "Copeaux Flavors Chauffe Légère", "Copeaux Flavors Chauffe Moyenne", "Blocks Classic Chauffe Légère", "Blocks Classic Chauffe Moyenne"]
+        }]
+    }, {
+        "label": "Elevage après fermentation",
+        "contactTimes": [{
+            "label": "Jusqu'à 3 mois",
+            "products": ["Copeaux Flavors Chauffe Légère", "Copeaux Flavors Chauffe Moyenne", "Blocks Classic Chauffe Légère", "Blocks Classic Chauffe Moyenne"]
+        }, {
+            "label": "De 4 à 6 mois",
+            "products": ["Blocks Classic Chauffe Légère", "Blocks CLassic Chauffe Moyenne", "Dominos Classic Assemblage Chauffe Blonde et Moyenne"]
+        }, {
+            "label": "De 6 à 10 mois",
+            "products": ["Staves Classic Chauffe Légère", "Staves Classic Chauffe Moyenne"]
+        }, {
+            "label": "10 mois et plus",
+            "products": ["Staves Classic Chauffe Légère", "Staves Classic Chauffe Moyenne"]
+        }]
+    }, {
+        "label": "Elevage Barrique",
+        "contactTimes": [{
+            "label": "De 4 à 6 mois",
+            "products": ["Inserts 25% Classic Blonde ", "Inserts 45% Classic Blonde", "Inserts 25% Classic Moyenne", "Inserts 45% CLassic Moyenne"]
+        }, {
+            "label": "De 6 à 10 mois",
+            "products": ["Inserts 25% Classic Blonde ", "Inserts 45% Classic Blonde", "Inserts 25% Classic Moyenne", "Inserts 45% CLassic Moyenne"]
+        }, {
+            "label": "10 mois et plus",
+            "products": ["Inserts 25% Classic Blonde ", "Inserts 45% Classic Blonde", "Inserts 25% Classic Moyenne", "Inserts 45% CLassic Moyenne"]
+        }]
+    }]
+}, {
+    "label": "Apport Aromatique ET Structurant",
+    "implementations": [{
+        "label": "Vinification",
+        "contactTimes": [{
+            "label": "Jusqu'à 3 mois",
+            "products": ["Granulats Flavors", "Copeaux Flavors Chauffe Légère", "Copeaux Flavors Chauffe Moyenne", "Blocks 50% Flavors/50 % Classic Chauffe Légère", "Blocks 50% Flavors/50 % Classic Chauffe Moyenne"]
+        }]
+    }, {
+        "label": "Elevage après fermentation",
+        "contactTimes": [{
+            "label": "Jusqu'à 3 mois",
+            "products": ["Copeaux Flavors Chauffe Légère", "Copeaux Flavors Chauffe Moyenne", "Blocks 50% Flavors/50 % Classic Chauffe Légère", "Blocks 50% Flavors/50 % Classic Chauffe Moyenne", "Dominos Classic Assemblage Chauffe Blonde et Moyenne"]
+        }, {
+            "label": "De 4 à 6 mois",
+            "products": ["Blocks 50% Flavors/50 % Classic Chauffe Légère", "Blocks 50% Flavors/50 % Classic Chauffe Moyenne", "Dominos Chauffe Moyenne"]
+        }, {
+            "label": "De 6 à 10 mois",
+            "products": ["Staves 50% Flavors/ 50% Classic Chauffe Légère", "Staves 50% Flavors/ 50% Classic Chauffe Moyenne"]
+        }, {
+            "label": "10 mois et plus",
+            "products": ["Staves 18 Flavors Chauffe Légère", "Staves 18 Flavors Chauffe Moyenne"]
+        }]
+    }, {
+        "label": "Elevage Barrique",
+        "contactTimes": [{
+            "label": "De 4 à 6 mois",
+            "products": ["Inserts 25% Flavors + Classic Blonde ", "Inserts 45% Flavors + Classic Blonde", "Inserts 45% Flavors + Classic Moyenne", "Inserts 45% Flavors + Classic Moyenne"]
+        }, {
+            "label": "De 6 à 10 mois",
+            "products": ["Inserts 25% Flavors + Classic Blonde ", "Inserts 45% Flavors + Classic Blonde", "Inserts 45% Flavors + Classic Moyenne", "Inserts 45% Flavors + Classic Moyenne"]
+        }, {
+            "label": "10 mois et plus",
+            "products": ["Inserts 25% Flavors + Classic Blonde ", "Inserts 45% Flavors + Classic Blonde", "Inserts 45% Flavors + Classic Moyenne", "Inserts 45% Flavors + Classic Moyenne"]
+        }]
+    }]
+}, {
+    "label": "Apport correcteur",
+    "implementations": [{
+        "label": "Vinification",
+        "contactTimes": [{
+            "label": "Jusqu'à 3 mois",
+            "products": ["Copeaux Flavors Chauffe Moyenne", "Copeaux Flavors Chauffe Longue", "Block Flavors Chauffe Moyenne", "Block Flavors Chauffe Longue"]
+        }]
+    }, {
+        "label": "Elevage après fermentation",
+        "contactTimes": [{
+            "label": "Jusqu'à 3 mois",
+            "products": ["Copeaux Flavors Chauffe Moyenne", "Copeaux Flavors Chauffe Longue", "Block Flavors Chauffe Moyenne", "Block Flavors Chauffe Longue", "Dominos Chauffe Moyenne", "Dominos Chauffe Longue"]
+        }, {
+            "label": "De 4 à 6 mois",
+            "products": ["Block Flavors Chauffe Moyenne", "Block Flavors Chauffe Longue", "Dominos Classic Chauffe Moyenne", "Dominos Classic Chauffe Longue"]
+        }, {
+            "label": "De 6 à 10 mois",
+            "products": ["Staves Flavors Chauffe Moyenne", "Staves Flavors Chauffe Longue"]
+        }, {
+            "label": "10 mois et plus",
+            "products": ["Staves 18 Flavors Chauffe Moyenne", "Staves 18 Flavors Chauffe Longue"]
+        }]
+    }, {
+        "label": "Elevage Barrique",
+        "contactTimes": [{
+            "label": "De 4 à 6 mois",
+            "products": ["Inserts 25% Flavors Moyenne", "Inserts 45% Flavors Longue"]
+        }, {
+            "label": "De 6 à 10 mois",
+            "products": ["Inserts 25% Flavors Moyenne", "Inserts 45% Flavors Longue"]
+        }, {
+            "label": "10 mois et plus",
+            "products": ["Inserts 25% Flavors Moyenne", "Inserts 45% Flavors Longue"]
+        }]
+    }]
+}]

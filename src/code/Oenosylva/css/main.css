@@ -1,0 +1,56 @@
+@import "pre-configurator.css";
+@import "choices.css";
+@import "response.css";
+@import "contact.css";
+
+@font-face {
+    font-family: GothamMedium;
+    src: url("../../../fonts/GothamMedium.ttf") format("truetype");
+}
+
+:root {
+    --orange: #CB8827;
+    --dark-orange: rgba(203, 135, 39, 0.827);;
+    --grey: #231F20;
+    --white: white
+}
+
+html {
+    scroll-behavior: smooth;
+    background-color: #231F20;
+    /*font-family: GothamMedium, Arial, Helvetica, sans-serif !important;*/
+}
+
+.col .row {
+    margin-left: 0rem !important;
+    margin-right: 0rem !important;
+}
+
+.row {
+    margin-bottom: 0rem !important;
+}
+
+/* s et + */
+@media only screen and (min-width: 0px) {
+
+}
+
+/* m et + */
+@media only screen and (min-width: 992px) {
+    .container {
+        margin-right: 6rem !important;
+        margin-left: 6rem !important;
+        max-width: unset !important;
+        width: unset !important;
+    }
+}
+
+/* l */
+@media only screen and (min-width: 1200px) {
+    .container {
+        margin-right: 15% !important;
+        margin-left: 15% !important;
+        max-width: unset !important;
+        width: unset !important;
+    }
+}

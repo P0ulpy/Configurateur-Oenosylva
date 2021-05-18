@@ -1,0 +1,10 @@
+{
+    "Flavors" : {
+        "label" : "Gamme Flavors",
+        "description": "La Gamme Classic se décline en 2 chauffes : \n • Chauffe Traditionnelle \n • Chauffe Infrarouge"
+    },
+    "Classic" : {
+        "label" : "Gamme Classic",
+        "description" : "Les produits de la gamme Flavors sont chauffés par convection \n (exceptés les Granulates – produits non chauffés)."
+    }
+}

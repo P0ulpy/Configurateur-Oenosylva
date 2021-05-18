@@ -1,0 +1,145 @@
+{
+    "Dominos-Classic" : {
+        "label": "Dominos",
+        "line": "Classic",
+        "imagePath" : "images/Types/DOMINOS.png",
+        "productDescription" : "https://www.oenosylva.com/wp-content/uploads/2020/12/OE_FT_CLASSIC_DOMINOS_FR_1120.pdf",
+        "dimensions" : "7 x 3 x 0,9 cm",
+        "conditioning" : "Filet infusion de 10 kg Emballage PE -ALU",
+        "heating" : {
+            "label" : "Chauffe tradition",
+            "imgPath" : "images/Products Heating/Chauffe tradition.svg",
+            "types" : [ "Blonde", "Moyenne", "Longue" ]
+        }
+    },
+    "Staves-Classic" : {
+        "label": "Staves",
+        "line": "Classic",
+        "imagePath" : "images/Types/STAVES.png",
+        "productDescription" : "https://www.oenosylva.com/wp-content/uploads/2020/12/OE_FT_CLASSIC_STAVES_FR_1120.pdf",
+        "dimensions" : "94 x 5 x 0,9 cm",
+        "conditioning" : "5 packs de 18 staves Emballage PE -ALU Carton de 90 staves Poids : 26,5 kg",
+        "heating" : {
+            "label" : "Chauffe à coeur",
+            "imgPath" : "images/Products Heating/Chauffe à coeur.svg",
+            "types" : [ "Blonde", "Légère", "Moyenne", "Longue" ]
+        }
+    },
+    "StavesThick-Classic" : {
+        "label": "Staves Épaisses",
+        "line": "Classic",
+        "imagePath" : "images/Types/STAVES_18.png",
+        "productDescription" : "https://www.oenosylva.com/wp-content/uploads/2020/12/OE_FT_CLASSIC_STAVES_FR_1120.pdf",
+        "dimensions" : "94 x 5 x 16,2 cm = 2 m2 = 5,3 kg",
+        "conditioning" : "5 packs de 18 staves Emballage PE -ALU Carton de 90 staves Poids : 26,5 kg",
+        "heating" : {
+            "label" : "Chauffe à coeur",
+            "imgPath" : "images/Products Heating/Chauffe à coeur.svg",
+            "types" : [ "Blonde", "Moyenne", "Longue" ]
+        }
+    },
+    "Blocks-Classic" : {
+        "label": "Blocks",
+        "line": "Classic",
+        "imagePath" : "images/Types/BLOCK.png",
+        "productDescription" : "https://www.oenosylva.com/wp-content/uploads/2020/12/OE_FT_CLASSIC_BLOCKS_FR_1120.pdf",
+        "dimensions" : "5 x 5 x 0,9 cm",
+        "conditioning" : "Filet infusion alimentaire de 10 kg Emballage PE -ALU",
+        "heating" : {
+            "label" : "Chauffe à coeur",
+            "imgPath" : "images/Products Heating/Chauffe à coeur.svg",
+            "types" : [ "Blonde", "Moyenne", "Longue" ]
+        }
+    },
+    "Inserts-Classic" : {
+        "label": "Inserts",
+        "line": "Classic",
+        "imagePath" : "images/Types/INSERTS.png",
+        "productDescription" : "https://www.oenosylva.com/wp-content/uploads/2020/12/OE_FT_CLASSIC_INSERTS_FR_1120.pdf",
+        "dimensions" : "30 x 3 x 0,9 cm x 30 pièces 30 x 3 x 0,9 cm x 18 pièces",
+        "conditioning" : "Emballage PE -ALU de 5 à 10 inserts",
+        "heating" : {
+            "label" : "Chauffe à coeur",
+            "imgPath" : "images/Products Heating/Chauffe à coeur.svg",
+            "types" : [ "Légère", "Blonde", "Moyenne", "Moyenne Longue" ]
+        }
+    },
+    "Granulates-Flavors" : {
+        "label": "Granulates",
+        "line": "Flavors",
+        "imagePath" : "images/Types/GRANULATES.png",
+        "productDescription" : "https://www.oenosylva.com/wp-content/uploads/2020/12/OE_FT_FLAVORS_GRANULATES_FR_1120.pdf",
+        "dimensions" : "> 2 mm & < 7 mm",
+        "conditioning" : "Emballage PE -ALU de 10 kg",
+        "heating" : {
+            "label" : "Sans chauffe",
+            "imgPath" : "images/Products Heating/Sans chauffe.png",
+            "types" : [ "Copeaux de fermentation" ]
+        }
+    },
+    "Chips-Flavors" : {
+        "label": "Chips",
+        "line": "Flavors",
+        "imagePath" : "images/Types/CHIPS.png",
+        "productDescription" : "https://www.oenosylva.com/wp-content/uploads/2020/12/OE_FT_FLAVORS_CHIPS_FR_1120.pdf",
+        "dimensions" : "> 7mm",
+        "conditioning" : "Emballage PE -ALU de 10 kg.",
+        "heating" : {
+            "label" : "Chauffe convection",
+            "imgPath" : "images/Products Heating/Chauffe convection.svg",
+            "types" : [ "Légère", "Moyenne", "Longue" ]
+        }
+    },
+    "Blocks-Flavors" : {
+        "label": "Blocks",
+        "line": "Flavors",
+        "imagePath" : "images/Types/BLOCK.png",
+        "productDescription" : "https://www.oenosylva.com/wp-content/uploads/2020/12/OE_FT_FLAVORS_BLOCKS_FR_1120.pdf",
+        "dimensions" : "5 x 5 x 0,9 cm",
+        "conditioning" : "Filet infusion de 10 kg Emballage PE -ALU",
+        "heating" : {
+            "label" : "Chauffe convection",
+            "imgPath" : "images/Products Heating/Chauffe convection.svg",
+            "types" : [ "Légère", "Moyenne", "Moyenne Longue", "Moyenne+" ]
+        }
+    },
+    "Inserts-Flavors" : {
+        "label": "Inserts",
+        "line": "Flavors",
+        "imagePath" : "images/Types/INSERTS.png",
+        "productDescription" : "https://www.oenosylva.com/wp-content/uploads/2020/12/OE_FT_FLAVORS_INSERTS_FR_1120.pdf",
+        "dimensions" : "30 x  3 x 0,9 cm x 18 pièces ou 30 x  3 x 0,9 cm x 30 pièces",
+        "conditioning" : "Emballage PE -ALU de 5 à 10 inserts",
+        "heating" : {
+            "label" : "Chauffe convection",
+            "imgPath" : "images/Products Heating/Chauffe convection.svg",
+            "types" : [ "Légère", "Blonde", "Moyenne", "Moyenne Longue" ]
+        }
+    },
+    "Staves-Flavors" : {
+        "label": "Staves",
+        "line": "Flavors",
+        "imagePath" : "images/Types/STAVES.png",
+        "productDescription" : "https://www.oenosylva.com/wp-content/uploads/2020/12/OE_FT_FLAVORS_STAVES_FR_1120.pdf",
+        "dimensions" : "94 x 5 x 0,9 cm",
+        "conditioning" : "5 packs de 18 staves – Emballage PE -ALU – Carton de 90 staves Poids : 26,5 kg",
+        "heating" : {
+            "label" : "Chauffe convection",
+            "imgPath" : "images/Products Heating/Chauffe convection.svg",
+            "types" : [ "Légère", "Moyenne", "Moyenne Longue", "Moyenne+" ]
+        }
+    },
+    "StavesThick-Flavors" : {
+        "label": "Staves Épaisses",
+        "line": "Flavors",
+        "imagePath" : "images/Types/STAVES_18.png",
+        "productDescription" : "https://www.oenosylva.com/wp-content/uploads/2020/12/OE_FT_FLAVORS_STAVES18_FR_1120.pdf",
+        "dimensions" : "94 x 5 x 0,9 cm",
+        "conditioning" : "5 packs de 18 staves – Emballage PE -ALU – Carton de 90 staves Poids : 26,5 kg",
+        "heating" : {
+            "label" : "Chauffe convection",
+            "imgPath" : "images/Products Heating/Chauffe convection.svg",
+            "types" : [ "Blonde", "Légère", "Moyenne", "Longue" ]
+        }
+    }
+}

@@ -1,0 +1,67 @@
+.trad-button {
+    color: white;
+    cursor: pointer;
+}
+
+.trad-button:hover {
+    color: #CB8827;
+    transition: color 0.5s ease-in-out;
+    -moz-transition: color 0.5s ease-in-out;
+    -webkit-transition: color 0.5s ease-in-out;
+}
+
+.trad-button-click {
+    color: #CB8827;
+}
+
+.preConfig-title {
+    text-align: center;
+
+    font-size: 20pt;
+    color: #CB8827;
+    font-weight: bold;
+}
+
+.preConfig-text {
+    text-align: center;
+
+    font-size: 15pt;
+    color: rgba(203, 135, 39, 0.827);;
+
+    margin-right: 30%;
+    margin-left: 30%;
+    margin-bottom: 3em;
+}
+
+.preConfig-img-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10em;
+}
+
+/* s */
+@media only screen and (min-width: 0px) {
+    .preConfig-text {
+        margin-right: 15%;
+        margin-left: 15%;
+        margin-bottom: 3em;
+    }
+}
+
+/* m */
+@media only screen and (min-width: 992px) {
+    .preConfig-text {
+        margin-right: 20%;
+        margin-left: 20%;
+        margin-bottom: 3em;
+    }
+}
+
+/* l */
+@media only screen and (min-width: 1200px) {
+    .preConfig-text {
+        margin-right: 20%;
+        margin-left: 20%;
+        margin-bottom: 3em;
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "choices" : {
+        "descriptions" : [
+            "Select your wine", 
+            "Select the desired impact",
+            "Select the timing of oak addition",
+            "Select the duration of oak treatment"
+        ],
+        "styles" : [
+            "svgRow",
+            "column",
+            "row",
+            "column"
+        ]
+    },
+    "response": {
+        "title" : "OUR RECOMMENDATION(S) FOR YOUR WINE",
+        "title2" : "our other products ",
+        "classicTitle" : "CLASSIC RANGE",
+        "flavorsTitle" : "FLAVORS RANGE",
+        "downloadImage" : "images/download.svg",
+        "achitecture" : {
+            "classic": [
+                "Blocks-Classic",
+                "Inserts-Classic",
+                null,
+                "Staves-Classic",
+                "StavesThick-Classic",
+                "Dominos-Classic",
+                null
+            ],
+            "flavors": [
+                "Blocks-Flavors",
+                "Inserts-Flavors",
+                "Granulates-Flavors",
+                "Staves-Flavors",
+                "StavesThick-Flavors",
+                null,
+                "Chips-Flavors"
+            ]
+        }
+    },
+    "outsideCalculator" : {
+        "title" : "Œnosylva Configurator",
+        "text" : "In 4 steps, configure the best choice of oak products for the œnology of your wine",
+        "img" : "images/Logo.png"
+    },
+    "contact" : {
+        "title" : "To confirm your project and estimate the best dosage, contact your advisor. Select your region in France or your country",
+        "arrowImg" : "images/arrow.svg",
+        "countries" : [ 
+            { 
+                "label": "FRANCE",
+                "subLinks" : [
+                    { "label" : "South-west – Bergerac", "link": "https://www.oenosylva.com/en/contact-france-south-west-bergerac/" },
+                    { "label" : "Gaillac", "link": "https://www.oenosylva.com/en/contact-form-france-gaillac/" },
+                    { "label" : "Bourgogne – Corse<br>Rhône – South East", "link": "https://www.oenosylva.com/en/contact-france-bourgogne-corse-rhone-south-east/" },
+                    { "label" : "Bordeaux Left side<br>Bourg Blayais – Gascogne", "link": "https://www.oenosylva.com/en/contact-france-bordeaux-left-side-bourg-blayais-gascogne/" },
+                    { "label" : "Bordeaux Right side<br>Entre 2 Mers – Languedoc Roussillon", "link": "https://www.oenosylva.com/en/contact-france-bordeaux-right-side-entre-2-mers-languedoc-roussillon/" },
+                    { "label" : "Beaujolais – Bourgogne<br>Jura – Loire – Savoie", "link": "https://www.oenosylva.com/en/contact-france-beaujolais-bourgogne-jura-loire-savoie/" },
+                    { "label" : "Cahors", "link": "https://www.oenosylva.com/en/contact-form-france-cahors/" },
+                    { "label" : "Sancerre – Nivernais – Giennois", "link": "https://www.oenosylva.com/en/contact-form-france-sancerre-nivernais-giennois/" }
+                ]
+            },
+            { 
+                "label": "North America",
+                "subLinks" : [
+                    { "label" : "California Central Coast, OR, WA", "link": "https://www.oenosylva.com/en/contact-north-america-california-central-coast-or-wa/" },
+                    { "label" : "Napa – Sonoma – East Coast", "link": "https://www.oenosylva.com/en/contact-north-america-napa-sonoma-east-coast/" }
+                ]
+            },
+            { "label" : "South Africa", "link": "https://www.oenosylva.com/en/contact-south-africa/" },
+            { "label" : "Austria", "link": "https://www.oenosylva.com/en/contact-austria/" },
+            { "label" : "Germany", "link": "https://www.oenosylva.com/en/contact-germany/" },
+            { "label" : "Argentina", "link": "https://www.oenosylva.com/en/contact-argentina/" },
+            { "label" : "Australia", "link": "https://www.oenosylva.com/en/contact-australia/" },
+            { "label" : "Brazil", "link": "https://www.oenosylva.com/en/contact-brazil/" },
+            { "label" : "Bulgaria", "link": "https://www.oenosylva.com/en/contact-bulgaria/" },
+            { "label" : "Canada", "link": "https://www.oenosylva.com/en/contact-form-canada/" },
+            { "label" : "Chile", "link": "https://www.oenosylva.com/en/contact-chile/" },
+            { "label" : "Cyprus", "link": "https://www.oenosylva.com/en/contact-cyprus/" },
+            { "label" : "Spain", "link": "https://www.oenosylva.com/en/contact-spain/" },
+            { "label" : "Greece", "link": "https://www.oenosylva.com/en/contact-greece/" },
+            { 
+                "label" : "Italia",
+                "subLinks" : [
+                    { "label" : "Alto Adige — Trento", "link": "https://www.oenosylva.com/en/contact-italia-alto-adige-and-trento/" },
+                    { "label" : "Piemonte — Val d’Aosta", "link": "https://www.oenosylva.com/en/contact-italia-piemonte-and-val-daosta/" }
+                ] 
+            },
+            { "label" : "Morocco", "link": "https://www.oenosylva.com/en/contact-morocco/" },
+            { "label" : "New Zealand", "link": "https://www.oenosylva.com/en/contact-new-zealand/" },
+            { "label" : "Portugal", "link": "https://www.oenosylva.com/en/contact-form-portugal/" },
+            { "label" : "Czech Republic", "link": "https://www.oenosylva.com/en/contact-czech-republic/" },
+            { "label" : "Slovakia", "link": "https://www.oenosylva.com/en/contact-slovakia/" },
+            { "label" : "Switzerland", "link": "https://www.oenosylva.com/en/contact-switzerland/" }
+        ]
+    }
+}

@@ -1,0 +1,995 @@
+{
+    "wines": [{
+            "label": "Dry White or Rosé Wine",
+            "img": "images/Wines/BLANC_ROSE.png",
+            "goals": [{
+                "label": "Aromatic Contribution",
+                "implementations": [{
+                        "label": "Fermentation",
+                        "img": "images/Vinification/GRAPPE.svg",
+                        "contactTimes": [{
+                            "label": "Up to 3 months",
+                            "products": [
+                                "Granulates",
+                                "Copeaux Flavors Light Toasting",
+                                "Copeaux Flavors Medium Toasting",
+                                "Dominos Light Toasting",
+                                "Dominos Medium Toasting",
+                                "Blocks Flavors Light Toasting",
+                                "Blocks Flavors Medium Toasting"
+                            ]
+                        }]
+                    },
+                    {
+                        "label": "Tank Aging",
+                        "img": "images/Vinification/CUVE.svg",
+                        "contactTimes": [{
+                                "label": "Up to 3 months",
+                                "products": [
+                                    "Copeaux Flavors Light Toasting",
+                                    "Copeaux Flavors Medium Toasting",
+                                    "Blocks Flavors Light Toasting",
+                                    "Blocks Flavors Medium Toasting"
+                                ]
+                            },
+                            {
+                                "label": "4 to 6 months",
+                                "products": [
+                                    "Blocks Flavors Light Toasting",
+                                    "Blocks Flavors Medium Toasting",
+                                    "Dominos Light Toasting",
+                                    "Dominos Medium Toasting"
+                                ]
+                            },
+                            {
+                                "label": "6 to 10 months",
+                                "products": [
+                                    "Staves Flavors Light Toasting",
+                                    "Staves Flavors Medium Toasting"
+                                ]
+                            },
+                            {
+                                "label": "10 months and beyond",
+                                "products": [
+                                    "Staves 18 Flavors Light Toasting",
+                                    "Staves 18 Flavors Medium Toasting"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Barrel Aging",
+                        "img": "images/Vinification/BARRIQUES.svg",
+                        "contactTimes": [{
+                                "label": "4 to 6 months",
+                                "products": [
+                                    "Inserts 25% Flavor Light",
+                                    "Inserts 45% Flavor Light",
+                                    "Inserts 45% Flavor Medium",
+                                    "Inserts 45% Flavor Medium"
+                                ]
+                            },
+                            {
+                                "label": "6 to 10 months",
+                                "products": [
+                                    "Inserts 25% Flavor Light",
+                                    "Inserts 45% Flavor Light",
+                                    "Inserts 45% Flavor Medium",
+                                    "Inserts 45% Flavor Medium"
+                                ]
+                            },
+                            {
+                                "label": "10 months and beyond",
+                                "products": [
+                                    "Inserts 25% Flavor Light",
+                                    "Inserts 45% Flavor Light",
+                                    "Inserts 45% Flavor Medium",
+                                    "Inserts 45% Flavor Medium"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }, {
+                "label": "Structuring Contribution",
+                "implementations": [{
+                        "label": "Fermentation",
+                        "img": "images/Vinification/GRAPPE.svg",
+                        "contactTimes": [{
+                            "label": "Up to 3 months",
+                            "products": [
+                                "Granulates",
+                                "Copeaux Classic Light Toasting",
+                                "Copeaux Classic Medium Toasting",
+                                "Blocks Classic Light Toasting",
+                                "Blocks Classic Medium Toasting"
+                            ]
+                        }]
+                    },
+                    {
+                        "label": "Tank Aging",
+                        "img": "images/Vinification/CUVE.svg",
+                        "contactTimes": [{
+                                "label": "Up to 3 months",
+                                "products": [
+                                    "Copeaux Classic Light Toasting",
+                                    "Copeaux Classic Medium Toasting",
+                                    "Blocks Classic Light Toasting",
+                                    "Blocks Classic Medium Toasting"
+                                ]
+                            },
+                            {
+                                "label": "4 to 6 months",
+                                "products": [
+                                    "Blocks Classic Light Toasting",
+                                    "Blocks CLassic Medium Toasting",
+                                    "Dominos Medium Toasting"
+                                ]
+                            },
+                            {
+                                "label": "6 to 10 months",
+                                "products": [
+                                    "Staves Classic Light Toasting",
+                                    "Staves Classic Medium Toasting"
+                                ]
+                            },
+                            {
+                                "label": "10 months and beyond",
+                                "products": [
+                                    "Staves Classic Light Toasting",
+                                    "Staves Classic Medium Toasting"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Barrel Aging",
+                        "img": "images/Vinification/BARRIQUES.svg",
+                        "contactTimes": [{
+                                "label": "4 to 6 months",
+                                "products": [
+                                    "Inserts 25% Classic Light",
+                                    "Inserts 45% Classic Light",
+                                    "Inserts 25% Classic Medium",
+                                    "Inserts 45% Classic Medium"
+                                ]
+                            },
+                            {
+                                "label": "6 to 10 months",
+                                "products": [
+                                    "Inserts 25% Classic Light",
+                                    "Inserts 45% Classic Light",
+                                    "Inserts 25% Classic Medium",
+                                    "Inserts 45% Classic Medium"
+                                ]
+                            },
+                            {
+                                "label": "10 months and beyond",
+                                "products": [
+                                    "Inserts 25% Classic Light",
+                                    "Inserts 45% Classic Light",
+                                    "Inserts 25% Classic Medium",
+                                    "Inserts 45% Classic Medium"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }, {
+                "label": "Aromatic and Structuring Contribution",
+                "implementations": [{
+                        "label": "Fermentation",
+                        "img": "images/Vinification/GRAPPE.svg",
+
+                        "contactTimes": [{
+                            "label": "Up to 3 months",
+                            "products": [
+                                "Granulates",
+                                "Copeaux 50% Flavors/50 % Classic Light Toasting",
+                                "Copeaux 50% Flavors/50 % Classic Medium Toasting",
+                                "Blocks 50% Flavors/50 % Classic Light Toasting",
+                                "Blocks 50% Flavors/50 % Classic Medium Toasting"
+                            ]
+                        }]
+                    },
+                    {
+                        "label": "Tank Aging",
+                        "img": "images/Vinification/CUVE.svg",
+                        "contactTimes": [{
+                                "label": "Up to 3 months",
+                                "products": [
+                                    "Copeaux 50% Flavors/50 % Classic Light Toasting",
+                                    "Copeaux 50% Flavors/50 % Classic Medium Toasting",
+                                    "Blocks 50% Flavors/50 % Classic Light Toasting",
+                                    "Blocks 50% Flavors/50 % Classic Medium Toasting",
+                                    "Dominos Medium Toasting"
+                                ]
+                            },
+                            {
+                                "label": "4 to 6 months",
+                                "products": [
+                                    "Blocks 50% Flavors/50 % Classic Light Toasting",
+                                    "Blocks 50% Flavors/50 % Classic Medium Toasting",
+                                    "Dominos Medium Toasting"
+                                ]
+                            },
+                            {
+                                "label": "6 to 10 months",
+                                "products": [
+                                    "Staves 50% Flavors/ 50% Classic Light Toasting",
+                                    "Staves 50% Flavors/ 50% Classic Medium Toasting"
+                                ]
+                            },
+                            {
+                                "label": "10 months and beyond",
+                                "products": [
+                                    "Staves 18 Flavors Light Toasting",
+                                    "Staves 18 Flavors Medium Toasting"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Barrel Aging",
+                        "img": "images/Vinification/BARRIQUES.svg",
+
+                        "contactTimes": [{
+                                "label": "4 to 6 months",
+                                "products": [
+                                    "Inserts 25% Flavor + Classic Light ",
+                                    "Inserts 45% Flavor + Classic Light",
+                                    "Inserts 45% Flavor + Classic Medium",
+                                    "Inserts 45% Flavor + Classic Medium"
+                                ]
+                            },
+                            {
+                                "label": "6 to 10 months",
+                                "products": [
+                                    "Inserts 25% Flavor + Classic Light",
+                                    "Inserts 45% Flavor + Classic Light",
+                                    "Inserts 45% Flavor + Classic Medium",
+                                    "Inserts 45% Flavor + Classic Medium"
+                                ]
+                            },
+                            {
+                                "label": "10 months and beyond",
+                                "products": [
+                                    "Inserts 25% Flavor + Classic Light ",
+                                    "Inserts 45% Flavor + Classic Light",
+                                    "Inserts 45% Flavor + Classic Medium",
+                                    "Inserts 45% Flavor + Classic Medium"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }, {
+                "label": "Corrective Contribution",
+                "implementations": [{
+                        "label": "Fermentation",
+                        "img": "images/Vinification/GRAPPE.svg",
+
+                        "contactTimes": [{
+                            "label": "Up to 3 months",
+                            "products": [
+                                "Copeaux Flavors Medium Toasting",
+                                "Copeaux Flavors Long Toasting",
+                                "Block Flavors Medium Toasting",
+                                "Block Flavors Long Toasting"
+                            ]
+                        }]
+                    },
+                    {
+                        "label": "Tank Aging",
+                        "img": "images/Vinification/CUVE.svg",
+                        "contactTimes": [{
+                                "label": "Up to 3 months",
+                                "products": [
+                                    "Copeaux Flavors Medium Toasting",
+                                    "Copeaux Flavors Long Toasting",
+                                    "Block Flavors Medium Toasting",
+                                    "Block Flavors Long Toasting",
+                                    "Dominos Medium Toasting",
+                                    "Dominos Long Toasting"
+                                ]
+                            },
+                            {
+                                "label": "4 to 6 months",
+                                "products": [
+                                    "Block Flavors Medium Toasting",
+                                    "Block Flavors Long Toasting",
+                                    "Dominos Medium Toasting",
+                                    "Dominos Long Toasting"
+                                ]
+                            },
+                            {
+                                "label": "6 to 10 months",
+                                "products": [
+                                    "Staves Flavors Medium Toasting",
+                                    "Staves Flavors Long Toasting"
+                                ]
+                            },
+                            {
+                                "label": "10 months and beyond",
+                                "products": [
+                                    "Staves 18 Flavors Medium Toasting",
+                                    "Staves 18 Flavors Long Toasting"
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "label": "Barrel Aging",
+                        "img": "images/Vinification/BARRIQUES.svg",
+                        "contactTimes": [{
+                                "label": "4 to 6 months",
+                                "products": [
+                                    "Inserts 25% Flavor Medium",
+                                    "Inserts 45% Flavor Long"
+                                ]
+                            },
+                            {
+                                "label": "6 to 10 months",
+                                "products": [
+                                    "Inserts 25% Flavor Medium",
+                                    "Inserts 45% Flavor Long"
+                                ]
+                            },
+                            {
+                                "label": "10 months and beyond",
+                                "products": [
+                                    "Inserts 25% Flavor Medium",
+                                    "Inserts 45% Flavor Long"
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }]
+        },
+        {
+            "label": "Sweet White Wine",
+            "img": "images/Wines/BLANC_LIQUOREUX.png",
+            "goals": [{
+                "label": "Aromatic Contribution",
+                "implementations": [{
+                    "label": "Fermentation",
+                    "img": "images/Vinification/GRAPPE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Granulates Flavors", "Copeaux Flavors Light Toasting", "Copeaux Flavors Medium Toasting", "Dominos Classic Light Toasting", "Blocks Classic Light Toasting", "Blocks CLassic Medium Toasting"]
+                    }]
+                }, {
+                    "label": "Tank Aging",
+                    "img": "images/Vinification/CUVE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Copeaux Flavors Light Toasting", "Copeaux Flavors Medium Toasting", "Blocks Classic Light Toasting", "Blocks Classic Medium Toasting"]
+                    }, {
+                        "label": "4 to 6 months",
+                        "products": ["Blocks Classic Light Toasting", "Blocks Classic Medium Toasting", "Dominos Classic Light Toasting"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Staves CLassic Light Toasting", "Staves CLassic Medium Toasting"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Staves 18 Flavors Light Toasting", "Staves 18 Flavors Medium Toasting"]
+                    }]
+                }, {
+                    "label": "Barrel Aging",
+                    "img": "images/Vinification/BARRIQUES.svg",
+                    "contactTimes": [{
+                        "label": "4 to 6 months",
+                        "products": ["Inserts 25% Classic Light ", "Inserts 45% Classic Light", "Inserts 45% Classic Medium", "Inserts 45% Classic Medium"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Inserts 25% Classic Light ", "Inserts 45% Classic Light", "Inserts 45% Classic Medium", "Inserts 45% Classic Medium"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Inserts 25% Classic Light ", "Inserts 45% Classic Light", "Inserts 45% Classic Medium", "Inserts 45% Classic Medium"]
+                    }]
+                }]
+            }, {
+                "label": "Structuring Contribution",
+                "implementations": [{
+                    "label": "Fermentation",
+                    "img": "images/Vinification/GRAPPE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Granulates Flavors", "Copeaux Flavors Light Toasting", "Copeaux Flavors Medium Toasting", "Blocks Classic Light Toasting", "Blocks Classic Medium Toasting"]
+                    }]
+                }, {
+                    "label": "Tank Aging",
+                    "img": "images/Vinification/CUVE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Copeaux Flavors Light Toasting", "Copeaux Flavors Medium Toasting", "Blocks Classic Light Toasting", "Blocks Classic Medium Toasting"]
+                    }, {
+                        "label": "4 to 6 months",
+                        "products": ["Blocks Classic Light Toasting", "Blocks Classic Medium Toasting", "Dominos Classic Light Toasting/Medium"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Staves Classic Light Toasting", "Staves Classic Medium Toasting"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Staves Classic Light Toasting", "Staves Classic Medium Toasting"]
+                    }]
+                }, {
+                    "label": "Barrel Aging",
+                    "img": "images/Vinification/BARRIQUES.svg",
+                    "contactTimes": [{
+                        "label": "4 to 6 months",
+                        "products": ["Inserts 25% Classic Light", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% CLassic Medium"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Inserts 25% Classic Light", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% CLassic Medium"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Inserts 25% Classic Light", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% CLassic Medium"]
+                    }]
+                }]
+            }, {
+                "label": "Aromatic and Structuring Contribution",
+                "implementations": [{
+                    "label": "Fermentation",
+                    "img": "images/Vinification/GRAPPE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Granulates Flavors", "Copeaux Flavors Light Toasting", "Copeaux Flavors Medium Toasting", "Blocks 50% Flavors/50 % Classic Light Toasting", "Blocks 50% Flavors/50 % Classic Medium Toasting"]
+                    }]
+                }, {
+                    "label": "Tank Aging",
+                    "img": "images/Vinification/CUVE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Copeaux 50% Flavors/50 % Classic Light Toasting", "Copeaux 50% Flavors/50 % Classic Medium Toasting", "Blocks 50% Flavors/50 % Classic Light Toasting", "Blocks 50% Flavors/50 % Classic Medium Toasting", "Dominos Classic Medium Toasting"]
+                    }, {
+                        "label": "4 to 6 months",
+                        "products": ["Blocks 50% Flavors/50 % Classic Light Toasting", "Blocks 50% Flavors/50 % Classic Medium Toasting", "Dominos Classic Medium Toasting"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Staves 50% Flavors/ 50% Classic Light Toasting", "Staves 50% Flavors/ 50% Classic Medium Toasting"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Staves 18 Flavors Light Toasting", "Staves 18 Flavors Medium Toasting"]
+                    }]
+                }, {
+                    "label": "Barrel Aging",
+                    "img": "images/Vinification/BARRIQUES.svg",
+                    "contactTimes": [{
+                        "label": "4 to 6 months",
+                        "products": ["Inserts 25% Flavors + Classic Light ", "Inserts 45% Flavors + Classic Light", "Inserts 45% Flavors + Classic Medium", "Inserts 45% Flavors + Classic Medium"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Inserts 25% Flavors + Classic Light ", "Inserts 45% Flavors + Classic Light", "Inserts 45% Flavors + Classic Medium", "Inserts 45% Flavors + Classic Medium"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Inserts 25% Flavors + Classic Light ", "Inserts 45% Flavors + Classic Light", "Inserts 45% Flavors + Classic Medium", "Inserts 45% Flavors + Classic Medium"]
+                    }]
+                }]
+            }, {
+                "label": "Corrective Contribution",
+                "implementations": [{
+                    "label": "Fermentation",
+                    "img": "images/Vinification/GRAPPE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Copeaux Flavors Medium Toasting", "Copeaux Flavors Long Toasting", "Block Flavors Medium Toasting", "Block Flavors Long Toasting"]
+                    }]
+                }, {
+                    "label": "Tank Aging",
+                    "img": "images/Vinification/CUVE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Copeaux Flavors Medium Toasting", "Copeaux Flavors Long Toasting", "Block Flavors Medium Toasting", "Block Flavors Long Toasting", "Dominos Medium Toasting", "Dominos Long Toasting"]
+                    }, {
+                        "label": "4 to 6 months",
+                        "products": ["Block Flavors Medium Toasting", "Block Flavors Long Toasting", "Dominos Medium Toasting", "Dominos Long Toasting"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Staves Flavors Medium Toasting", "Staves Flavors Long Toasting"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Staves 18 Flavors Medium Toasting", "Staves 18 Flavors Long Toasting"]
+                    }]
+                }, {
+                    "label": "Barrel Aging",
+                    "img": "images/Vinification/BARRIQUES.svg",
+                    "contactTimes": [{
+                        "label": "4 to 6 months",
+                        "products": ["Inserts 25% Flavors Medium", "Inserts 45% Flavors Long"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Inserts 25% Flavors Medium", "Inserts 45% Flavors Long"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Inserts 25% Flavors Medium", "Inserts 45% Flavors Long"]
+                    }]
+                }]
+            }]
+        },
+        {
+            "label": "Light-Bodied Red Wine",
+            "img": "images/Wines/BLANC_ROUGE_FRUITE.png",
+            "goals": [{
+                "label": "Aromatic Contribution",
+                "implementations": [{
+                    "label": "Fermentation",
+                    "img": "images/Vinification/GRAPPE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Granulates Flavors", "Copeaux Flavors Assemblage Light Toasting et Medium", "Dominos Classic Assemblage Light Toasting et Medium", "Blocks Flavors Assemblage Light Toasting et Medium"]
+                    }]
+                }, {
+                    "label": "Tank Aging",
+                    "img": "images/Vinification/CUVE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Copeaux Flavors Assemblage Light Toasting et Medium", "Dominos Classic Assemblage Light Toasting et Medium", "Blocks Flavors Assemblage Light Toasting et Medium"]
+                    }, {
+                        "label": "4 to 6 months",
+                        "products": ["Blocks Flavors Assemblage Light Toasting et Medium", "Dominos Assemblage Light Toasting et Medium"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Staves Flavors Light Toasting", "Staves Flavors Medium Toasting"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Staves 18 Flavors Light Toasting", "Staves 18 Flavors Medium Toasting"]
+                    }]
+                }, {
+                    "label": "Barrel Aging",
+                    "img": "images/Vinification/BARRIQUES.svg",
+                    "contactTimes": [{
+                        "label": "4 to 6 months",
+                        "products": ["Inserts 25% Flavors Light ", "Inserts 45% Flavors Light", "Inserts 45% Flavors Medium", "Inserts 45% Flavors Medium"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Inserts 25% Flavors Light ", "Inserts 45% Flavors Light", "Inserts 45% Flavors Medium", "Inserts 45% Flavors Medium"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Inserts 25% Flavors Light ", "Inserts 45% Flavors Light", "Inserts 45% Flavors Medium", "Inserts 45% Flavors Medium"]
+                    }]
+                }]
+            }, {
+                "label": "Structuring Contribution",
+                "implementations": [{
+                    "label": "Fermentation",
+                    "img": "images/Vinification/GRAPPE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Granulates Flavors", "Copeaux Classic Light Toasting", "Copeaux Classic Medium Toasting", "Blocks Classic Light Toasting", "Blocks Classic Medium Toasting"]
+                    }]
+                }, {
+                    "label": "Tank Aging",
+                    "img": "images/Vinification/CUVE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Copeaux Classic Light Toasting", "Copeaux Classic Medium Toasting", "Blocks Classic Light Toasting", "Blocks Classic Medium Toasting"]
+                    }, {
+                        "label": "4 to 6 months",
+                        "products": ["Blocks Classic Light Toasting", "Blocks CLassic Medium Toasting", "Dominos Classic Assemblage Light Toasting et Medium"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Staves Classic Light Toasting", "Staves Classic Medium Toasting"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Staves Classic Light Toasting", "Staves Classic Medium Toasting"]
+                    }]
+                }, {
+                    "label": "Barrel Aging",
+                    "img": "images/Vinification/BARRIQUES.svg",
+                    "contactTimes": [{
+                        "label": "4 to 6 months",
+                        "products": ["Inserts 25% Classic Light ", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% CLassic Medium"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Inserts 25% Classic Light ", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% CLassic Medium"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Inserts 25% Classic Light ", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% CLassic Medium"]
+                    }]
+                }]
+            }, {
+                "label": "Aromatic and Structuring Contribution",
+                "implementations": [{
+                    "label": "Fermentation",
+                    "img": "images/Vinification/GRAPPE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Granulates Flavors", "Copeaux Flavors Light Toasting", "Copeaux Flavors Medium Toasting", "Blocks 50% Flavors/50 % Classic Light Toasting", "Blocks 50% Flavors/50 % Classic Medium Toasting"]
+                    }]
+                }, {
+                    "label": "Tank Aging",
+                    "img": "images/Vinification/CUVE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Copeaux Flavors Light Toasting", "Copeaux Flavors Medium Toasting", "Blocks 50% Flavors/50 % Classic Light Toasting", "Blocks 50% Flavors/50 % Classic Medium Toasting", "Dominos Classic Assemblage Light Toasting et Medium"]
+                    }, {
+                        "label": "4 to 6 months",
+                        "products": ["Blocks 50% Flavors/50 % Classic Light Toasting", "Blocks 50% Flavors/50 % Classic Medium Toasting", "Dominos Classic Medium Toasting"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Staves 50% Flavors/ 50% Classic Light Toasting", "Staves 50% Flavors/ 50% Classic Medium Toasting"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Staves 18 Flavors Light Toasting", "Staves 18 Flavors Medium Toasting"]
+                    }]
+                }, {
+                    "label": "Barrel Aging",
+                    "img": "images/Vinification/BARRIQUES.svg",
+                    "contactTimes": [{
+                        "label": "4 to 6 months",
+                        "products": ["Inserts 25% Flavors + Classic Light ", "Inserts 45% Flavors + Classic Light", "Inserts 45% Flavors + Classic Medium", "Inserts 45% Flavors + Classic Medium"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Inserts 25% Flavors + Classic Light ", "Inserts 45% Flavors + Classic Light", "Inserts 45% Flavors + Classic Medium", "Inserts 45% Flavors + Classic Medium"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Inserts 25% Flavors + Classic Light ", "Inserts 45% Flavors + Classic Light", "Inserts 45% Flavors + Classic Medium", "Inserts 45% Flavors + Classic Medium"]
+                    }]
+                }]
+            }, {
+                "label": "Corrective Contribution",
+                "implementations": [{
+                    "label": "Fermentation",
+                    "img": "images/Vinification/GRAPPE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Copeaux Flavors Medium Toasting", "Copeaux Flavors Long Toasting", "Block Flavors Medium Toasting", "Block Flavors Long Toasting"]
+                    }]
+                }, {
+                    "label": "Tank Aging",
+                    "img": "images/Vinification/CUVE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Copeaux Flavors Medium Toasting", "Copeaux Flavors Long Toasting", "Blocks Flavors Medium Toasting", "Blocks Flavors Long Toasting", "Dominos Medium Toasting", "Dominos Long Toasting"]
+                    }, {
+                        "label": "4 to 6 months",
+                        "products": ["Blocks Flavors Medium Toasting", "Blocks Flavors Long Toasting", "Dominos Classic Medium Toasting", "Dominos Classic Long Toasting"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Staves Flavors Medium Toasting", "Staves Flavors Long Toasting"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Staves 18 Flavors Medium Toasting", "Staves 18 Flavors Long Toasting"]
+                    }]
+                }, {
+                    "label": "Barrel Aging",
+                    "img": "images/Vinification/BARRIQUES.svg",
+                    "contactTimes": [{
+                        "label": "4 to 6 months",
+                        "products": ["Inserts 25% Flavors Medium", "Inserts 45% Flavors Long"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Inserts 25% Flavors Medium", "Inserts 45% Flavors Long"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Inserts 25% Flavors Medium", "Inserts 45% Flavors Long"]
+                    }]
+                }]
+            }]
+        },
+        {
+            "label": "Full-Bodied Red Wine",
+            "img": "images/Wines/BLANC_ROUGE_CORSE.png",
+            "goals": [{
+                "label": "Aromatic Contribution",
+                "implementations": [{
+                    "label": "Fermentation",
+                    "img": "images/Vinification/GRAPPE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Granulates Flavors", "Copeaux Flavors Assemblage Light Toasting et Medium", "Dominos Classic Assemblage Light Toasting et Medium", "Blocks Flavors Assemblage Light Toasting et Medium"]
+                    }]
+                }, {
+                    "label": "Tank Aging",
+                    "img": "images/Vinification/CUVE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Copeaux Flavors Assemblage Light Toasting et Medium", "Dominos Classic Assemblage Light Toasting et Medium", "Blocks Flavors Assemblage Light Toasting et Medium"]
+                    }, {
+                        "label": "4 to 6 months",
+                        "products": ["Blocks Flavors Assemblage Light Toasting et Medium", "Dominos Classic Assemblage Light Toasting et Medium"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Staves Flavors Light Toasting", "Staves Flavors Medium Toasting"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Staves 18 Flavors Light Toasting", "Staves 18 Flavors Medium Toasting"]
+                    }]
+                }, {
+                    "label": "Barrel Aging",
+                    "img": "images/Vinification/BARRIQUES.svg",
+                    "contactTimes": [{
+                        "label": "4 to 6 months",
+                        "products": ["Inserts 25% Flavors Light ", "Inserts 45% Flavors Light", "Inserts 45% Flavors Medium", "Inserts 45% Flavors Medium"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Inserts 25% Flavors Light ", "Inserts 45% Flavors Light", "Inserts 45% Flavors Medium", "Inserts 45% Flavors Medium"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Inserts 25% Flavors Light ", "Inserts 45% Flavors Light", "Inserts 45% Flavors Medium", "Inserts 45% Flavors Medium"]
+                    }]
+                }]
+            }, {
+                "label": "Structuring Contribution",
+                "implementations": [{
+                    "label": "Fermentation",
+                    "img": "images/Vinification/GRAPPE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Granulates Flavors", "Copeaux Flavors Light Toasting", "Copeaux Flavors Medium Toasting", "Blocks Classic Light Toasting", "Blocks Classic Medium Toasting"]
+                    }]
+                }, {
+                    "label": "Tank Aging",
+                    "img": "images/Vinification/CUVE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Copeaux Flavors Light Toasting", "Copeaux Flavors Medium Toasting", "Blocks Classic Light Toasting", "Blocks Classic Medium Toasting"]
+                    }, {
+                        "label": "4 to 6 months",
+                        "products": ["Blocks Classic Light Toasting", "Blocks CLassic Medium Toasting", "Dominos Classic Assemblage Light Toasting et Medium"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Staves Classic Light Toasting", "Staves Classic Medium Toasting"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Staves Classic Light Toasting", "Staves Classic Medium Toasting"]
+                    }]
+                }, {
+                    "label": "Barrel Aging",
+                    "img": "images/Vinification/BARRIQUES.svg",
+                    "contactTimes": [{
+                        "label": "4 to 6 months",
+                        "products": ["Inserts 25% Classic Light ", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% CLassic Medium"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Inserts 25% Classic Light ", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% CLassic Medium"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Inserts 25% Classic Light ", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% CLassic Medium"]
+                    }]
+                }]
+            }, {
+                "label": "Aromatic and Structuring Contribution",
+                "implementations": [{
+                    "label": "Fermentation",
+                    "img": "images/Vinification/GRAPPE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Granulates Flavors", "Copeaux Flavors Light Toasting", "Copeaux Flavors Medium Toasting", "Blocks 50% Flavors/50 % Classic Light Toasting", "Blocks 50% Flavors/50 % Classic Medium Toasting"]
+                    }]
+                }, {
+                    "label": "Tank Aging",
+                    "img": "images/Vinification/CUVE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Copeaux Flavors Light Toasting", "Copeaux Flavors Medium Toasting", "Blocks 50% Flavors/50 % Classic Light Toasting", "Blocks 50% Flavors/50 % Classic Medium Toasting", "Dominos Classic Assemblage Light Toasting et Medium"]
+                    }, {
+                        "label": "4 to 6 months",
+                        "products": ["Blocks 50% Flavors/50 % Classic Light Toasting", "Blocks 50% Flavors/50 % Classic Medium Toasting", "Dominos Medium Toasting"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Staves 50% Flavors/ 50% Classic Light Toasting", "Staves 50% Flavors/ 50% Classic Medium Toasting"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Staves 18 Flavors Light Toasting", "Staves 18 Flavors Medium Toasting"]
+                    }]
+                }, {
+                    "label": "Barrel Aging",
+                    "img": "images/Vinification/BARRIQUES.svg",
+                    "contactTimes": [{
+                        "label": "4 to 6 months",
+                        "products": ["Inserts 25% Flavors + Classic Light ", "Inserts 45% Flavors + Classic Light", "Inserts 45% Flavors + Classic Medium", "Inserts 45% Flavors + Classic Medium"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Inserts 25% Flavors + Classic Light ", "Inserts 45% Flavors + Classic Light", "Inserts 45% Flavors + Classic Medium", "Inserts 45% Flavors + Classic Medium"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Inserts 25% Flavors + Classic Light ", "Inserts 45% Flavors + Classic Light", "Inserts 45% Flavors + Classic Medium", "Inserts 45% Flavors + Classic Medium"]
+                    }]
+                }]
+            }, {
+                "label": "Corrective Contribution",
+                "implementations": [{
+                    "label": "Fermentation",
+                    "img": "images/Vinification/GRAPPE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Copeaux Flavors Medium Toasting", "Copeaux Flavors Long Toasting", "Block Flavors Medium Toasting", "Block Flavors Long Toasting"]
+                    }]
+                }, {
+                    "label": "Tank Aging",
+                    "img": "images/Vinification/CUVE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Copeaux Flavors Medium Toasting", "Copeaux Flavors Long Toasting", "Block Flavors Medium Toasting", "Block Flavors Long Toasting", "Dominos Medium Toasting", "Dominos Long Toasting"]
+                    }, {
+                        "label": "4 to 6 months",
+                        "products": ["Block Flavors Medium Toasting", "Block Flavors Long Toasting", "Dominos Classic Medium Toasting", "Dominos Classic Long Toasting"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Staves Flavors Medium Toasting", "Staves Flavors Long Toasting"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Staves 18 Flavors Medium Toasting", "Staves 18 Flavors Long Toasting"]
+                    }]
+                }, {
+                    "label": "Barrel Aging",
+                    "img": "images/Vinification/BARRIQUES.svg",
+                    "contactTimes": [{
+                        "label": "4 to 6 months",
+                        "products": ["Inserts 25% Flavors Medium", "Inserts 45% Flavors Long"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Inserts 25% Flavors Medium", "Inserts 45% Flavors Long"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Inserts 25% Flavors Medium", "Inserts 45% Flavors Long"]
+                    }]
+                }]
+            }]
+        },
+        {
+            "label": "Spirits",
+            "img": "images/Wines/SPIRITUEUX.png",
+            "goals": [{
+                "label": "Aromatic Contribution",
+                "implementations": [{
+                    "label": "Fermentation",
+                    "img": "images/Vinification/GRAPPE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Granulates Flavors", "Copeaux Flavors Assemblage Light Toasting et Medium", "Dominos Classic Assemblage Light Toasting et Medium", "Blocks Flavors Assemblage Light Toasting et Medium"]
+                    }]
+                }, {
+                    "label": "Tank Aging",
+                    "img": "images/Vinification/CUVE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Copeaux Flavors Assemblage Light Toasting et Medium", "Dominos Classic Assemblage Light Toasting et Medium", "Blocks Flavors Assemblage Light Toasting et Medium"]
+                    }, {
+                        "label": "4 to 6 months",
+                        "products": ["Blocks Flavors Assemblage Light Toasting et Medium", "Dominos Classic Assemblage Light Toasting et Medium"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Staves Flavors Light Toasting", "Staves Flavors Medium Toasting"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Staves 18 Flavors Light Toasting", "Staves 18 Flavors Medium Toasting"]
+                    }]
+                }, {
+                    "label": "Barrel Aging",
+                    "img": "images/Vinification/BARRIQUES.svg",
+                    "contactTimes": [{
+                        "label": "4 to 6 months",
+                        "products": ["Inserts 25% Flavors Light ", "Inserts 45% Flavors Light", "Inserts 45% Flavors Medium", "Inserts 45% Flavors Medium"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Inserts 25% Flavors Light ", "Inserts 45% Flavors Light", "Inserts 45% Flavors Medium", "Inserts 45% Flavors Medium"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Inserts 25% Flavors Light ", "Inserts 45% Flavors Light", "Inserts 45% Flavors Medium", "Inserts 45% Flavors Medium"]
+                    }]
+                }]
+            }, {
+                "label": "Structuring Contribution",
+                "implementations": [{
+                    "label": "Fermentation",
+                    "img": "images/Vinification/GRAPPE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Granulates Flavors", "Copeaux Flavors Light Toasting", "Copeaux Flavors Medium Toasting", "Blocks Classic Light Toasting", "Blocks Classic Medium Toasting"]
+                    }]
+                }, {
+                    "label": "Tank Aging",
+                    "img": "images/Vinification/CUVE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Copeaux Flavors Light Toasting", "Copeaux Flavors Medium Toasting", "Blocks Classic Light Toasting", "Blocks Classic Medium Toasting"]
+                    }, {
+                        "label": "4 to 6 months",
+                        "products": ["Blocks Classic Light Toasting", "Blocks CLassic Medium Toasting", "Dominos Classic Assemblage Light Toasting et Medium"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Staves Classic Light Toasting", "Staves Classic Medium Toasting"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Staves Classic Light Toasting", "Staves Classic Medium Toasting"]
+                    }]
+                }, {
+                    "label": "Barrel Aging",
+                    "img": "images/Vinification/BARRIQUES.svg",
+                    "contactTimes": [{
+                        "label": "4 to 6 months",
+                        "products": ["Inserts 25% Classic Light ", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% CLassic Medium"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Inserts 25% Classic Light ", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% CLassic Medium"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Inserts 25% Classic Light ", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% CLassic Medium"]
+                    }]
+                }]
+            }, {
+                "label": "Aromatic and Structuring Contribution",
+                "implementations": [{
+                    "label": "Fermentation",
+                    "img": "images/Vinification/GRAPPE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Granulates Flavors", "Copeaux Flavors Light Toasting", "Copeaux Flavors Medium Toasting", "Blocks 50% Flavors/50 % Classic Light Toasting", "Blocks 50% Flavors/50 % Classic Medium Toasting"]
+                    }]
+                }, {
+                    "label": "Tank Aging",
+                    "img": "images/Vinification/CUVE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Copeaux Flavors Light Toasting", "Copeaux Flavors Medium Toasting", "Blocks 50% Flavors/50 % Classic Light Toasting", "Blocks 50% Flavors/50 % Classic Medium Toasting", "Dominos Classic Assemblage Light Toasting et Medium"]
+                    }, {
+                        "label": "4 to 6 months",
+                        "products": ["Blocks 50% Flavors/50 % Classic Light Toasting", "Blocks 50% Flavors/50 % Classic Medium Toasting", "Dominos Medium Toasting"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Staves 50% Flavors/ 50% Classic Light Toasting", "Staves 50% Flavors/ 50% Classic Medium Toasting"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Staves 18 Flavors Light Toasting", "Staves 18 Flavors Medium Toasting"]
+                    }]
+                }, {
+                    "label": "Barrel Aging",
+                    "img": "images/Vinification/BARRIQUES.svg",
+                    "contactTimes": [{
+                        "label": "4 to 6 months",
+                        "products": ["Inserts 25% Flavors + Classic Light ", "Inserts 45% Flavors + Classic Light", "Inserts 45% Flavors + Classic Medium", "Inserts 45% Flavors + Classic Medium"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Inserts 25% Flavors + Classic Light ", "Inserts 45% Flavors + Classic Light", "Inserts 45% Flavors + Classic Medium", "Inserts 45% Flavors + Classic Medium"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Inserts 25% Flavors + Classic Light ", "Inserts 45% Flavors + Classic Light", "Inserts 45% Flavors + Classic Medium", "Inserts 45% Flavors + Classic Medium"]
+                    }]
+                }]
+            }, {
+                "label": "Corrective Contribution",
+                "implementations": [{
+                    "label": "Fermentation",
+                    "img": "images/Vinification/GRAPPE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Copeaux Flavors Medium Toasting", "Copeaux Flavors Long Toasting", "Block Flavors Medium Toasting", "Block Flavors Long Toasting"]
+                    }]
+                }, {
+                    "label": "Tank Aging",
+                    "img": "images/Vinification/CUVE.svg",
+                    "contactTimes": [{
+                        "label": "Up to 3 months",
+                        "products": ["Copeaux Flavors Medium Toasting", "Copeaux Flavors Long Toasting", "Block Flavors Medium Toasting", "Block Flavors Long Toasting", "Dominos Medium Toasting", "Dominos Long Toasting"]
+                    }, {
+                        "label": "4 to 6 months",
+                        "products": ["Block Flavors Medium Toasting", "Block Flavors Long Toasting", "Dominos Classic Medium Toasting", "Dominos Classic Long Toasting"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Staves Flavors Medium Toasting", "Staves Flavors Long Toasting"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Staves 18 Flavors Medium Toasting", "Staves 18 Flavors Long Toasting"]
+                    }]
+                }, {
+                    "label": "Barrel Aging",
+                    "img": "images/Vinification/BARRIQUES.svg",
+                    "contactTimes": [{
+                        "label": "4 to 6 months",
+                        "products": ["Inserts 25% Flavors Medium", "Inserts 45% Flavors Long"]
+                    }, {
+                        "label": "6 to 10 months",
+                        "products": ["Inserts 25% Flavors Medium", "Inserts 45% Flavors Long"]
+                    }, {
+                        "label": "10 months and beyond",
+                        "products": ["Inserts 25% Flavors Medium", "Inserts 45% Flavors Long"]
+                    }]
+                }]
+            }]
+        }
+    ]
+}

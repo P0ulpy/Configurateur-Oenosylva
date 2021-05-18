@@ -1,0 +1,26 @@
+{
+    "wines": 
+    [
+        {
+            "label": "Blanc et Rosé sec",
+            "img": "svg/BLANC_ROSE.png",
+            "goals": 
+            [
+                {
+                    "label": "Apport Aromatique",
+                    "implementations": 
+                    [
+                        {
+                            "label": "",
+                            "products": 
+                            [
+                                "",
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

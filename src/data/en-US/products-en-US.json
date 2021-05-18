@@ -1,0 +1,485 @@
+{
+    "Granulates": {
+        "type": "Granulates-Flavors",
+        "heatings": ["Fermentation chips"],
+        "source": "Granulates"
+    },
+    "Copeaux Flavors Light Toasting": {
+        "type": "Chips-Flavors",
+        "heatings": ["Light"],
+        "source": "Copeaux Flavors Light Toasting"
+    },
+    "Copeaux Flavors Medium Toasting": {
+        "type": "Chips-Flavors",
+        "heatings": ["Medium"],
+        "source": "Copeaux Flavors Medium Toasting"
+    },
+    "Dominos Light Toasting": {
+        "type": "Dominos-Classic",
+        "heatings": ["Light"],
+        "source": "Dominos Light Toasting"
+    },
+    "Dominos Medium Toasting": {
+        "type": "Dominos-Classic",
+        "heatings": ["Medium"],
+        "source": "Dominos Medium Toasting"
+    },
+    "Blocks Flavors Light Toasting": {
+        "type": "Blocks-Flavors",
+        "heatings": ["Light"],
+        "source": "Blocks Flavors Light Toasting"
+    },
+    "Blocks Flavors Medium Toasting": {
+        "type": "Blocks-Flavors",
+        "heatings": ["Medium"],
+        "source": "Blocks Flavors Medium Toasting"
+    },
+    "Staves Flavors Light Toasting": {
+        "type": "Staves-Flavors",
+        "heatings": ["Light"],
+        "source": "Staves Flavors Light Toasting"
+    },
+    "Staves Flavors Medium Toasting": {
+        "type": "Staves-Flavors",
+        "heatings": ["Medium"],
+        "source": "Staves Flavors Medium Toasting"
+    },
+    "Staves 18 Flavors Light Toasting": {
+        "type": "StavesThick-Flavors",
+        "heatings": ["Light"],
+        "source": "Staves 18 Flavors Light Toasting"
+    },
+    "Staves 18 Flavors Medium Toasting": {
+        "type": "StavesThick-Flavors",
+        "heatings": ["Medium"],
+        "source": "Staves 18 Flavors Medium Toasting"
+    },
+    "Inserts 25% Flavor Light": {
+        "type": "Inserts-Flavors",
+        "heatings": ["Light"],
+        "source": "Inserts 25% Flavor Light"
+    },
+    "Inserts 45% Flavor Light": {
+        "type": "Inserts-Flavors",
+        "heatings": ["Light"],
+        "source": "Inserts 45% Flavor Light"
+    },
+    "Inserts 45% Flavor Medium": {
+        "type": "Inserts-Flavors",
+        "heatings": ["Medium"],
+        "source": "Inserts 45% Flavor Medium"
+    },
+    "Copeaux Classic Light Toasting": {
+        "type": "Chips-Flavors",
+        "heatings": ["Light"],
+        "source": "Copeaux Classic Light Toasting"
+    },
+    "Copeaux Classic Medium Toasting": {
+        "type": "Chips-Flavors",
+        "heatings": ["Medium"],
+        "source": "Copeaux Classic Medium Toasting"
+    },
+    "Blocks Classic Light Toasting": {
+        "type": "Blocks-Classic",
+        "heatings": ["Light"],
+        "source": "Blocks Classic Light Toasting"
+    },
+    "Blocks Classic Medium Toasting": {
+        "type": "Blocks-Classic",
+        "heatings": ["Medium"],
+        "source": "Blocks Classic Medium Toasting"
+    },
+    "Blocks CLassic Medium Toasting": {
+        "type": "Blocks-Classic",
+        "heatings": ["Medium"],
+        "source": "Blocks CLassic Medium Toasting"
+    },
+    "Staves Classic Light Toasting": {
+        "type": "Staves-Classic",
+        "heatings": ["Light"],
+        "source": "Staves Classic Light Toasting"
+    },
+    "Staves Classic Medium Toasting": {
+        "type": "Staves-Classic",
+        "heatings": ["Medium"],
+        "source": "Staves Classic Medium Toasting"
+    },
+    "Inserts 25% Classic Light": {
+        "type": "Inserts-Classic",
+        "heatings": ["Light"],
+        "source": "Inserts 25% Classic Light"
+    },
+    "Inserts 45% Classic Light": {
+        "type": "Inserts-Classic",
+        "heatings": ["Light"],
+        "source": "Inserts 45% Classic Light"
+    },
+    "Inserts 25% Classic Medium": {
+        "type": "Inserts-Classic",
+        "heatings": ["Medium"],
+        "source": "Inserts 25% Classic Medium"
+    },
+    "Inserts 45% Classic Medium": {
+        "type": "Inserts-Classic",
+        "heatings": ["Medium"],
+        "source": "Inserts 45% Classic Medium"
+    },
+    "Copeaux 50% Flavors/50 % Classic Light Toasting": {
+        "type": "Special",
+        "heatings": ["Light"],
+        "special": {
+            "right": {
+                "source": "Copeaux 50% Flavors",
+                "type": "Chips-Flavors",
+                "heatings": ["Light"],
+                "porcentage": ["50%"]
+            },
+            "left": {
+                "source": "50 % Classic Light Toasting",
+                "type": "",
+                "heatings": ["Light"],
+                "porcentage": ["50%"]
+            }
+        },
+        "source": "Copeaux 50% Flavors/50 % Classic Light Toasting"
+    },
+    "Copeaux 50% Flavors/50 % Classic Medium Toasting": {
+        "type": "Special",
+        "heatings": ["Medium"],
+        "special": {
+            "right": {
+                "source": "Copeaux 50% Flavors",
+                "type": "Chips-Flavors",
+                "heatings": ["Medium"],
+                "porcentage": ["50%"]
+            },
+            "left": {
+                "source": "50 % Classic Medium Toasting",
+                "type": "",
+                "heatings": ["Medium"],
+                "porcentage": ["50%"]
+            }
+        },
+        "source": "Copeaux 50% Flavors/50 % Classic Medium Toasting"
+    },
+    "Blocks 50% Flavors/50 % Classic Light Toasting": {
+        "type": "Special",
+        "heatings": ["Light"],
+        "special": {
+            "right": {
+                "source": "Blocks 50% Flavors",
+                "type": "Blocks-Flavors",
+                "heatings": ["Light"],
+                "porcentage": ["50%"]
+            },
+            "left": {
+                "source": "50 % Classic Light Toasting",
+                "type": "Blocks-Classic",
+                "heatings": ["Light"],
+                "porcentage": ["50%"]
+            }
+        },
+        "source": "Blocks 50% Flavors/50 % Classic Light Toasting"
+    },
+    "Blocks 50% Flavors/50 % Classic Medium Toasting": {
+        "type": "Special",
+        "heatings": ["Medium"],
+        "special": {
+            "right": {
+                "source": "Blocks 50% Flavors",
+                "type": "Blocks-Flavors",
+                "heatings": ["Medium"],
+                "porcentage": ["50%"]
+            },
+            "left": {
+                "source": "50 % Classic Medium Toasting",
+                "type": "Blocks-Classic",
+                "heatings": ["Medium"],
+                "porcentage": ["50%"]
+            }
+        },
+        "source": "Blocks 50% Flavors/50 % Classic Medium Toasting"
+    },
+    "Staves 50% Flavors/ 50% Classic Light Toasting": {
+        "type": "Special",
+        "heatings": ["Light"],
+        "special": {
+            "right": {
+                "source": "Staves 50% Flavors",
+                "type": "Staves-Flavors",
+                "heatings": ["Light"],
+                "porcentage": ["50%"]
+            },
+            "left": {
+                "source": " 50% Classic Light Toasting",
+                "type": "Staves-Classic",
+                "heatings": ["Light"],
+                "porcentage": ["50%"]
+            }
+        },
+        "source": "Staves 50% Flavors/ 50% Classic Light Toasting"
+    },
+    "Staves 50% Flavors/ 50% Classic Medium Toasting": {
+        "type": "Special",
+        "heatings": ["Medium"],
+        "special": {
+            "right": {
+                "source": "Staves 50% Flavors",
+                "type": "Staves-Flavors",
+                "heatings": ["Medium"],
+                "porcentage": ["50%"]
+            },
+            "left": {
+                "source": " 50% Classic Medium Toasting",
+                "type": "Staves-Classic",
+                "heatings": ["Medium"],
+                "porcentage": ["50%"]
+            }
+        },
+        "source": "Staves 50% Flavors/ 50% Classic Medium Toasting"
+    },
+    "Inserts 25% Flavor + Classic Light": {
+        "type": "Special",
+        "heatings": ["Light"],
+        "special": {
+            "right": {
+                "source": "Inserts 25% Flavor",
+                "type": "Inserts-Flavors",
+                "heatings": ["Light"],
+                "porcentage": "25%"
+            },
+            "left": {
+                "source": " Classic Light ",
+                "type": "Inserts-Classic",
+                "heatings": ["Light"],
+                "porcentage": "75%"
+            }
+        },
+        "source": "Inserts 25% Flavor + Classic Light "
+    },
+    "Inserts 45% Flavor + Classic Light": {
+        "type": "Special",
+        "heatings": ["Light"],
+        "special": {
+            "right": {
+                "source": "Inserts 45% Flavor",
+                "type": "Inserts-Flavors",
+                "heatings": ["Light"],
+                "porcentage": "45%"
+            },
+            "left": {
+                "source": " Classic Light",
+                "type": "Inserts-Classic",
+                "heatings": ["Light"],
+                "porcentage": "55%"
+            }
+        },
+        "source": "Inserts 45% Flavor + Classic Light"
+    },
+    "Inserts 45% Flavor + Classic Medium": {
+        "type": "Special",
+        "heatings": ["Medium"],
+        "special": {
+            "right": {
+                "source": "Inserts 45% Flavor",
+                "type": "Inserts-Flavors",
+                "heatings": ["Medium"],
+                "porcentage": "45%"
+            },
+            "left": {
+                "source": " Classic Medium",
+                "type": "Inserts-Classic",
+                "heatings": ["Medium"],
+                "porcentage": "55%"
+            }
+        },
+        "source": "Inserts 45% Flavor + Classic Medium"
+    },
+    "Copeaux Flavors Long Toasting": {
+        "type": "Chips-Flavors",
+        "heatings": ["Long"],
+        "source": "Copeaux Flavors Long Toasting"
+    },
+    "Block Flavors Medium Toasting": {
+        "type": "Blocks-Flavors",
+        "heatings": ["Medium"],
+        "source": "Block Flavors Medium Toasting"
+    },
+    "Block Flavors Long Toasting": {
+        "type": "Blocks-Flavors",
+        "heatings": ["Long"],
+        "source": "Block Flavors Long Toasting"
+    },
+    "Dominos Long Toasting": {
+        "type": "Dominos-Classic",
+        "heatings": ["Long"],
+        "source": "Dominos Long Toasting"
+    },
+    "Staves Flavors Long Toasting": {
+        "type": "Staves-Flavors",
+        "heatings": ["Long"],
+        "source": "Staves Flavors Long Toasting"
+    },
+    "Staves 18 Flavors Long Toasting": {
+        "type": "StavesThick-Flavors",
+        "heatings": ["Long"],
+        "source": "Staves 18 Flavors Long Toasting"
+    },
+    "Inserts 25% Flavor Medium": {
+        "type": "Inserts-Flavors",
+        "heatings": ["Medium"],
+        "source": "Inserts 25% Flavor Medium"
+    },
+    "Inserts 45% Flavor Long": {
+        "type": "Inserts-Flavors",
+        "heatings": ["Long"],
+        "source": "Inserts 45% Flavor Long"
+    },
+    "Granulates Flavors": {
+        "type": "Granulates-Flavors",
+        "heatings": ["Fermentation chips"],
+        "source": "Granulates Flavors"
+    },
+    "Dominos Classic Light Toasting": {
+        "type": "Dominos-Classic",
+        "heatings": ["Light"],
+        "source": "Dominos Classic Light Toasting"
+    },
+    "Staves CLassic Light Toasting": {
+        "type": "Staves-Classic",
+        "heatings": ["Light"],
+        "source": "Staves CLassic Light Toasting"
+    },
+    "Staves CLassic Medium Toasting": {
+        "type": "Staves-Classic",
+        "heatings": ["Medium"],
+        "source": "Staves CLassic Medium Toasting"
+    },
+    "Dominos Classic Light Toasting/Medium": {
+        "type": "Dominos-Classic",
+        "heatings": ["Medium", "Light"],
+        "source": "Dominos Classic Light Toasting/Medium"
+    },
+    "Inserts 45% CLassic Medium": {
+        "type": "Special",
+        "heatings": ["Medium"],
+        "source": "Inserts 45% CLassic Medium"
+    },
+    "Dominos Classic Medium Toasting": {
+        "type": "Dominos-Classic",
+        "heatings": ["Medium"],
+        "source": "Dominos Classic Medium Toasting"
+    },
+    "Inserts 25% Flavors + Classic Light": {
+        "type": "Special",
+        "heatings": ["Light"],
+        "special": {
+            "right": {
+                "source": "Inserts 25% Flavors",
+                "type": "Inserts-Flavors",
+                "heatings": ["Light"],
+                "porcentage": "25%"
+            },
+            "left": {
+                "source": " Classic Light ",
+                "type": "Inserts-Classic",
+                "heatings": ["Light"],
+                "porcentage": "75%"
+            }
+        },
+        "source": "Inserts 25% Flavors + Classic Light "
+    },
+    "Inserts 45% Flavors + Classic Light": {
+        "type": "Special",
+        "heatings": ["Light"],
+        "special": {
+            "right": {
+                "source": "Inserts 45% Flavors",
+                "type": "Inserts-Flavors",
+                "heatings": ["Light"],
+                "porcentage": "45%"
+            },
+            "left": {
+                "source": " Classic Light",
+                "type": "Inserts-Classic",
+                "heatings": ["Light"],
+                "porcentage": "55%"
+            }
+        },
+        "source": "Inserts 45% Flavors + Classic Light"
+    },
+    "Inserts 45% Flavors + Classic Medium": {
+        "type": "Special",
+        "heatings": ["Medium"],
+        "special": {
+            "right": {
+                "source": "Inserts 45% Flavors",
+                "type": "Inserts-Flavors",
+                "heatings": ["Medium"],
+                "porcentage": "45%"
+            },
+            "left": {
+                "source": " Classic Medium",
+                "type": "Inserts-Classic",
+                "heatings": ["Medium"],
+                "porcentage": "55%"
+            }
+        },
+        "source": "Inserts 45% Flavors + Classic Medium"
+    },
+    "Inserts 25% Flavors Medium": {
+        "type": "Inserts-Flavors",
+        "heatings": ["Medium"],
+        "source": "Inserts 25% Flavors Medium"
+    },
+    "Inserts 45% Flavors Long": {
+        "type": "Inserts-Flavors",
+        "heatings": ["Long"],
+        "source": "Inserts 45% Flavors Long"
+    },
+    "Copeaux Flavors Assemblage Light Toasting et Medium": {
+        "type": "Chips-Flavors",
+        "heatings": ["Light", "Medium"],
+        "source": "Copeaux Flavors Assemblage Light Toasting et Medium"
+    },
+    "Dominos Classic Assemblage Light Toasting et Medium": {
+        "type": "Dominos-Classic",
+        "heatings": ["Medium", "Light"],
+        "source": "Dominos Classic Assemblage Light Toasting et Medium"
+    },
+    "Blocks Flavors Assemblage Light Toasting et Medium": {
+        "type": "Blocks-Flavors",
+        "heatings": ["Light", "Medium"],
+        "source": "Blocks Flavors Assemblage Light Toasting et Medium"
+    },
+    "Dominos Assemblage Light Toasting et Medium": {
+        "type": "Dominos-Classic",
+        "heatings": ["Medium", "Light"],
+        "source": "Dominos Assemblage Light Toasting et Medium"
+    },
+    "Inserts 25% Flavors Light": {
+        "type": "Inserts-Flavors",
+        "heatings": ["Light"],
+        "source": "Inserts 25% Flavors Light "
+    },
+    "Inserts 45% Flavors Light": {
+        "type": "Inserts-Flavors",
+        "heatings": ["Light"],
+        "source": "Inserts 45% Flavors Light"
+    },
+    "Inserts 45% Flavors Medium": {
+        "type": "Inserts-Flavors",
+        "heatings": ["Medium"],
+        "source": "Inserts 45% Flavors Medium"
+    },
+    "Blocks Flavors Long Toasting": {
+        "type": "Blocks-Flavors",
+        "heatings": ["Long"],
+        "source": "Blocks Flavors Long Toasting"
+    },
+    "Dominos Classic Long Toasting": {
+        "type": "Dominos-Classic",
+        "heatings": ["Long"],
+        "source": "Dominos Classic Long Toasting"
+    }
+}
