@@ -5,7 +5,8 @@
   "main": "",
   "scripts": {
     "build": "webpack --progress",
-    "dev": "webpack --watch --progress",
+    "dev-nohost": "webpack --watch --progress",
+    "dev": "",
     "buildItems": "node ./buildTools/BuildItems/buildItems.js",
     "editItems": "node ./buildTools/editItems/editItems.js",
     "checkItemsIndex": "node ./buildTools/checkItemsIndex/checkItemsIndex.js"
