@@ -149,6 +149,10 @@
         margin-bottom: 1rem;
         margin-top: 1rem;
     }
+    
+    .wine-button {
+        height: 15rem;
+    }
 
     .apport-button {
         padding: 0rem !important;
@@ -182,6 +186,10 @@
         margin-top: 0rem;
     }
 
+    .wine-button {
+        height: 12rem;
+    }
+
     .apport-button {
         height: 15rem;
     }
@@ -213,6 +221,10 @@
 
     .choice-title-text {
         font-size: 20pt;
+    }
+
+    .wine-button {
+        height: 12rem;
     }
 
     .apport-button {

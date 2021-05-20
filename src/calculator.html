@@ -40,7 +40,7 @@
         const pathes = dataPaths[parent.document.querySelector('html').getAttribute("lang")] || dataPaths["fr-FR"];
 
         $('#calculator-container').empty();
-        document.calculator = new Calculator.default('#calculator-container', pathes);
+        document.calculator = new Calculator.default('#calculator-container', pathes, 'error');
         
     </script>
 

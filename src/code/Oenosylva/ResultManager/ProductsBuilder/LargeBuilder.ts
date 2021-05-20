@@ -198,12 +198,8 @@ export default class LargeBuilder extends ProductBuilder
 
         for(const product of products.values())
         {
-            console.log(product.type);
-
             const classicIndex = architecture.classic.findIndex(item => item === product.type);
             const flavorsIndex = architecture.flavors.findIndex(item => item === product.type);
-
-            console.log(classicIndex, flavorsIndex);
 
             highest = (classicIndex > highest) ? classicIndex : highest;
             highest = (flavorsIndex > highest) ? flavorsIndex : highest;
@@ -211,9 +207,6 @@ export default class LargeBuilder extends ProductBuilder
             lowest = (classicIndex != -1 && classicIndex < lowest) ? classicIndex : lowest;
             lowest = (flavorsIndex != -1 && flavorsIndex < lowest) ? flavorsIndex : lowest;
         }
-
-        console.log(highest);
-        console.log(lowest);
 
         const template: TemplatePair[] = [];
 
