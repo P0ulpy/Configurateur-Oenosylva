@@ -185,8 +185,8 @@
                             "label": "Up to 3 months",
                             "products": [
                                 "Granulates",
-                                "Copeaux 50% Flavors/50 % Classic Light Toasting",
-                                "Copeaux 50% Flavors/50 % Classic Medium Toasting",
+                                "Copeaux Flavors Light Toasting",
+                                "Copeaux Flavors Medium Toasting",
                                 "Blocks 50% Flavors/50 % Classic Light Toasting",
                                 "Blocks 50% Flavors/50 % Classic Medium Toasting"
                             ]
@@ -198,8 +198,8 @@
                         "contactTimes": [{
                                 "label": "Up to 3 months",
                                 "products": [
-                                    "Copeaux 50% Flavors/50 % Classic Light Toasting",
-                                    "Copeaux 50% Flavors/50 % Classic Medium Toasting",
+                                    "Copeaux Flavors Light Toasting",
+                                    "Copeaux Flavors Medium Toasting",
                                     "Blocks 50% Flavors/50 % Classic Light Toasting",
                                     "Blocks 50% Flavors/50 % Classic Medium Toasting",
                                     "Dominos Medium Toasting"
@@ -419,13 +419,13 @@
                     "img": "images/Vinification/BARRIQUES.svg",
                     "contactTimes": [{
                         "label": "4 to 6 months",
-                        "products": ["Inserts 25% Classic Light", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% CLassic Medium"]
+                        "products": ["Inserts 25% Classic Light", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% Classic Medium"]
                     }, {
                         "label": "6 to 10 months",
-                        "products": ["Inserts 25% Classic Light", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% CLassic Medium"]
+                        "products": ["Inserts 25% Classic Light", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% Classic Medium"]
                     }, {
                         "label": "10 months and beyond",
-                        "products": ["Inserts 25% Classic Light", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% CLassic Medium"]
+                        "products": ["Inserts 25% Classic Light", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% Classic Medium"]
                     }]
                 }]
             }, {
@@ -442,7 +442,7 @@
                     "img": "images/Vinification/CUVE.svg",
                     "contactTimes": [{
                         "label": "Up to 3 months",
-                        "products": ["Copeaux 50% Flavors/50 % Classic Light Toasting", "Copeaux 50% Flavors/50 % Classic Medium Toasting", "Blocks 50% Flavors/50 % Classic Light Toasting", "Blocks 50% Flavors/50 % Classic Medium Toasting", "Dominos Classic Medium Toasting"]
+                        "products": ["Copeaux Flavors Light Toasting", "Copeaux Flavors Medium Toasting", "Blocks 50% Flavors/50 % Classic Light Toasting", "Blocks 50% Flavors/50 % Classic Medium Toasting", "Dominos Classic Medium Toasting"]
                     }, {
                         "label": "4 to 6 months",
                         "products": ["Blocks 50% Flavors/50 % Classic Light Toasting", "Blocks 50% Flavors/50 % Classic Medium Toasting", "Dominos Classic Medium Toasting"]
@@ -580,13 +580,13 @@
                     "img": "images/Vinification/BARRIQUES.svg",
                     "contactTimes": [{
                         "label": "4 to 6 months",
-                        "products": ["Inserts 25% Classic Light ", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% CLassic Medium"]
+                        "products": ["Inserts 25% Classic Light ", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% Classic Medium"]
                     }, {
                         "label": "6 to 10 months",
-                        "products": ["Inserts 25% Classic Light ", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% CLassic Medium"]
+                        "products": ["Inserts 25% Classic Light ", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% Classic Medium"]
                     }, {
                         "label": "10 months and beyond",
-                        "products": ["Inserts 25% Classic Light ", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% CLassic Medium"]
+                        "products": ["Inserts 25% Classic Light ", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% Classic Medium"]
                     }]
                 }]
             }, {
@@ -741,13 +741,13 @@
                     "img": "images/Vinification/BARRIQUES.svg",
                     "contactTimes": [{
                         "label": "4 to 6 months",
-                        "products": ["Inserts 25% Classic Light ", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% CLassic Medium"]
+                        "products": ["Inserts 25% Classic Light ", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% Classic Medium"]
                     }, {
                         "label": "6 to 10 months",
-                        "products": ["Inserts 25% Classic Light ", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% CLassic Medium"]
+                        "products": ["Inserts 25% Classic Light ", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% Classic Medium"]
                     }, {
                         "label": "10 months and beyond",
-                        "products": ["Inserts 25% Classic Light ", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% CLassic Medium"]
+                        "products": ["Inserts 25% Classic Light ", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% Classic Medium"]
                     }]
                 }]
             }, {
@@ -902,13 +902,13 @@
                     "img": "images/Vinification/BARRIQUES.svg",
                     "contactTimes": [{
                         "label": "4 to 6 months",
-                        "products": ["Inserts 25% Classic Light ", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% CLassic Medium"]
+                        "products": ["Inserts 25% Classic Light ", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% Classic Medium"]
                     }, {
                         "label": "6 to 10 months",
-                        "products": ["Inserts 25% Classic Light ", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% CLassic Medium"]
+                        "products": ["Inserts 25% Classic Light ", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% Classic Medium"]
                     }, {
                         "label": "10 months and beyond",
-                        "products": ["Inserts 25% Classic Light ", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% CLassic Medium"]
+                        "products": ["Inserts 25% Classic Light ", "Inserts 45% Classic Light", "Inserts 25% Classic Medium", "Inserts 45% Classic Medium"]
                     }]
                 }]
             }, {

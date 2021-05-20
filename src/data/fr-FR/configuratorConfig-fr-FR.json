@@ -16,8 +16,8 @@
     "response": {
         "title" : "Nos Conseils pour votre vin",
         "title2" : "Nos autres produits",
-        "classicTitle" : "Gamme Classic",
-        "flavorsTitle" : "Gamme Flavors",
+        "classicTitle" : "Gamme <strong>Classic</strong>",
+        "flavorsTitle" : "Gamme <strong>Flavors</strong>",
         "downloadImage" : "images/download.svg",
         "achitecture" : {
             "classic": [

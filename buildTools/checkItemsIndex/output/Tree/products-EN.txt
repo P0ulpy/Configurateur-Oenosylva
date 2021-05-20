@@ -1,0 +1,62 @@
+Granulates
+Copeaux Flavors Light Toasting
+Copeaux Flavors Medium Toasting
+Dominos Light Toasting
+Dominos Medium Toasting
+Blocks Flavors Light Toasting
+Blocks Flavors Medium Toasting
+Staves Flavors Light Toasting
+Staves Flavors Medium Toasting
+Staves 18 Flavors Light Toasting
+Staves 18 Flavors Medium Toasting
+Inserts 25% Flavor Light
+Inserts 45% Flavor Light
+Inserts 45% Flavor Medium
+Copeaux Classic Light Toasting
+Copeaux Classic Medium Toasting
+Blocks Classic Light Toasting
+Blocks Classic Medium Toasting
+Blocks CLassic Medium Toasting
+Staves Classic Light Toasting
+Staves Classic Medium Toasting
+Inserts 25% Classic Light
+Inserts 45% Classic Light
+Inserts 25% Classic Medium
+Inserts 45% Classic Medium
+Blocks 50% Flavors/50 % Classic Light Toasting
+Blocks 50% Flavors/50 % Classic Medium Toasting
+Staves 50% Flavors/ 50% Classic Light Toasting
+Staves 50% Flavors/ 50% Classic Medium Toasting
+Inserts 25% Flavor + Classic Light 
+Inserts 45% Flavor + Classic Light
+Inserts 45% Flavor + Classic Medium
+Inserts 25% Flavor + Classic Light
+Copeaux Flavors Long Toasting
+Block Flavors Medium Toasting
+Block Flavors Long Toasting
+Dominos Long Toasting
+Staves Flavors Long Toasting
+Staves 18 Flavors Long Toasting
+Inserts 25% Flavor Medium
+Inserts 45% Flavor Long
+Granulates Flavors
+Dominos Classic Light Toasting
+Staves CLassic Light Toasting
+Staves CLassic Medium Toasting
+Inserts 25% Classic Light 
+Dominos Classic Light Toasting/Medium
+Dominos Classic Medium Toasting
+Inserts 25% Flavors + Classic Light 
+Inserts 45% Flavors + Classic Light
+Inserts 45% Flavors + Classic Medium
+Inserts 25% Flavors Medium
+Inserts 45% Flavors Long
+Copeaux Flavors Assemblage Light Toasting et Medium
+Dominos Classic Assemblage Light Toasting et Medium
+Blocks Flavors Assemblage Light Toasting et Medium
+Dominos Assemblage Light Toasting et Medium
+Inserts 25% Flavors Light 
+Inserts 45% Flavors Light
+Inserts 45% Flavors Medium
+Blocks Flavors Long Toasting
+Dominos Classic Long Toasting

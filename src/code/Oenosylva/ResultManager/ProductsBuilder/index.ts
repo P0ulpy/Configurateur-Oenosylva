@@ -42,7 +42,7 @@ class ProductsBuilder extends UIElement
 
         Debug.log("concated products", products);
 
-        if(this.isDisplaySize("l"))
+        if(this.isDisplaySize("l") || this.isDisplaySize("m"))
         {
             this.largeBuilder.build(products, "column");
         }

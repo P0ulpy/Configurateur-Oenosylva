@@ -35,10 +35,8 @@ export default class ProductBuilder extends EventEmitter
         super();
     }
 
-    public buildProduct(key : string, prodType : ProductType, products : Map<string, Product>, noBottomLine: boolean) : JQuery
+    public buildProduct(prodType : ProductType, product : Product, noBottomLine: boolean) : JQuery
     {
-        const product = products.get(key);
-        
         return $(`
             <div class="product row s12 valign-wrapper" ${(noBottomLine) ? `style="border-bottom: none"` : ''}>
                             

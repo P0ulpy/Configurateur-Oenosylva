@@ -39,6 +39,7 @@
 .column-button {
 
     font-size: 12pt;
+    font-weight: bold;
     color: white;
     background-color: #231F20;
     text-transform: uppercase;
@@ -85,6 +86,8 @@
     border: solid 1px;
     border-color: #231F20;
     height: 15rem;
+    font-weight: bold;
+    cursor: pointer;
 }
 
 .wine-button:hover {
@@ -127,6 +130,10 @@
 .apport-button-img {
     margin-top: 30%;
     height: 2rem;
+}
+
+.apport-button-text {
+    font-weight: bold;
 }
 
 /* apport-button */
@@ -190,7 +197,7 @@
     .column-button {}
 
     .wine-button {
-        font-size: 9pt;
+        font-size: 8pt;
         padding-left: 0.1rem !important;
         padding-right: 0.1rem !important;
         width: 20% !important;

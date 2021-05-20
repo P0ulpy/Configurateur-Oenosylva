@@ -186,8 +186,8 @@
                             "label": "Jusqu'à 3 mois",
                             "products": [
                                 "Granulats",
-                                "Copeaux 50% Flavors/50 % Classic Chauffe Légère",
-                                "Copeaux 50% Flavors/50 % Classic Chauffe Moyenne",
+                                "Copeaux Flavors Chauffe Légère",
+                                "Copeaux Flavors Chauffe Moyenne",
                                 "Blocks 50% Flavors/50 % Classic Chauffe Légère",
                                 "Blocks 50% Flavors/50 % Classic Chauffe Moyenne"
                             ]
@@ -199,8 +199,8 @@
                         "contactTimes": [{
                                 "label": "Jusqu'à 3 mois",
                                 "products": [
-                                    "Copeaux 50% Flavors/50 % Classic Chauffe Légère",
-                                    "Copeaux 50% Flavors/50 % Classic Chauffe Moyenne",
+                                    "Copeaux Flavors Chauffe Légère",
+                                    "Copeaux Flavors Chauffe Moyenne",
                                     "Blocks 50% Flavors/50 % Classic Chauffe Légère",
                                     "Blocks 50% Flavors/50 % Classic Chauffe Moyenne",
                                     "Dominos Chauffe Moyenne"
@@ -443,7 +443,7 @@
                     "img": "images/Vinification/CUVE.svg",
                     "contactTimes": [{
                         "label": "Jusqu'à 3 mois",
-                        "products": ["Copeaux 50% Flavors/50 % Classic Chauffe Légère", "Copeaux 50% Flavors/50 % Classic Chauffe Moyenne", "Blocks 50% Flavors/50 % Classic Chauffe Légère", "Blocks 50% Flavors/50 % Classic Chauffe Moyenne", "Dominos Classic Chauffe Moyenne"]
+                        "products": ["Copeaux Flavors Chauffe Légère", "Copeaux Flavors Chauffe Moyenne", "Blocks 50% Flavors/50 % Classic Chauffe Légère", "Blocks 50% Flavors/50 % Classic Chauffe Moyenne", "Dominos Classic Chauffe Moyenne"]
                     }, {
                         "label": "De 4 à 6 mois",
                         "products": ["Blocks 50% Flavors/50 % Classic Chauffe Légère", "Blocks 50% Flavors/50 % Classic Chauffe Moyenne", "Dominos Classic Chauffe Moyenne"]

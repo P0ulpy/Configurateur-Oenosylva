@@ -124,44 +124,6 @@
         "heatings": ["Medium"],
         "source": "Inserts 45% Classic Medium"
     },
-    "Copeaux 50% Flavors/50 % Classic Light Toasting": {
-        "type": "Special",
-        "heatings": ["Light"],
-        "special": {
-            "right": {
-                "source": "Copeaux 50% Flavors",
-                "type": "Chips-Flavors",
-                "heatings": ["Light"],
-                "porcentage": ["50%"]
-            },
-            "left": {
-                "source": "50 % Classic Light Toasting",
-                "type": "",
-                "heatings": ["Light"],
-                "porcentage": ["50%"]
-            }
-        },
-        "source": "Copeaux 50% Flavors/50 % Classic Light Toasting"
-    },
-    "Copeaux 50% Flavors/50 % Classic Medium Toasting": {
-        "type": "Special",
-        "heatings": ["Medium"],
-        "special": {
-            "right": {
-                "source": "Copeaux 50% Flavors",
-                "type": "Chips-Flavors",
-                "heatings": ["Medium"],
-                "porcentage": ["50%"]
-            },
-            "left": {
-                "source": "50 % Classic Medium Toasting",
-                "type": "",
-                "heatings": ["Medium"],
-                "porcentage": ["50%"]
-            }
-        },
-        "source": "Copeaux 50% Flavors/50 % Classic Medium Toasting"
-    },
     "Blocks 50% Flavors/50 % Classic Light Toasting": {
         "type": "Special",
         "heatings": ["Light"],
@@ -359,11 +321,6 @@
         "type": "Dominos-Classic",
         "heatings": ["Medium", "Light"],
         "source": "Dominos Classic Light Toasting/Medium"
-    },
-    "Inserts 45% CLassic Medium": {
-        "type": "Special",
-        "heatings": ["Medium"],
-        "source": "Inserts 45% CLassic Medium"
     },
     "Dominos Classic Medium Toasting": {
         "type": "Dominos-Classic",

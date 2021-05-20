@@ -22,8 +22,8 @@ export default class ContactBuilder extends UIElement
         const contactContainerA = $(`
         <div id="contact" class="choice-container row s12 valign-wrapper" id="column4">
 
-            <div class="contact-title-text col s4 hide-on-small-only">
-                <div>${this.data.config.contact.title}</div>
+            <div class="contact-title-text col s5 hide-on-small-only">
+                ${this.data.config.contact.title}
             </div>
             
         </div>`).appendTo(this.container);

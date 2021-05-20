@@ -30,6 +30,10 @@ html {
     margin-bottom: 0rem !important;
 }
 
+strong {
+    font-weight: bold !important;
+}
+
 /* s et + */
 @media only screen and (min-width: 0px) {
 

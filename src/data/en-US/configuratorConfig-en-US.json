@@ -16,8 +16,8 @@
     "response": {
         "title" : "OUR RECOMMENDATION(S) FOR YOUR WINE",
         "title2" : "our other products ",
-        "classicTitle" : "CLASSIC RANGE",
-        "flavorsTitle" : "FLAVORS RANGE",
+        "classicTitle" : "CLASSIC <strong>RANGE</strong>",
+        "flavorsTitle" : "FLAVORS <strong>RANGE</strong>",
         "downloadImage" : "images/download.svg",
         "achitecture" : {
             "classic": [

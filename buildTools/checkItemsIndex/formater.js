@@ -78,6 +78,9 @@ function getLabels(tree)
     const mapContactTimes = new Map();
     let contactTimes = "";
 
+    const mapProducts = new Map();
+    let products = "";
+
     for(const wine of tree.wines)
     {
         if(!mapWines.has(wine.label))
@@ -110,6 +113,15 @@ function getLabels(tree)
                         mapContactTimes.set(cTime.label, null);
                         contactTimes += cTime.label + "\n";
                     }
+
+                    for(const product of cTime.products)
+                    {
+                        if(!mapProducts.has(product))
+                        {
+                            mapProducts.set(product, null);
+                            products += product + "\n";
+                        }
+                    }
                 }
 
             }
@@ -121,6 +133,7 @@ function getLabels(tree)
         goals,
         implementations,
         contactTimes,
+        products
     }
 }
 

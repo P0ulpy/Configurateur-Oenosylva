@@ -124,44 +124,6 @@
         "heatings": ["moyenne"],
         "source": "Inserts 45% Classic Moyenne"
     },
-    "Copeaux 50% Flavors/50 % Classic Chauffe Légère": {
-        "type": "Special",
-        "heatings": ["légère"],
-        "special": {
-            "right": {
-                "source": "Copeaux 50% Flavors",
-                "type": "Chips-Flavors",
-                "heatings": ["légère"],
-                "porcentage": ["50%"]
-            },
-            "left": {
-                "source": "50 % Classic Chauffe Légère",
-                "type": "",
-                "heatings": ["légère"],
-                "porcentage": ["50%"]
-            }
-        },
-        "source": "Copeaux 50% Flavors/50 % Classic Chauffe Légère"
-    },
-    "Copeaux 50% Flavors/50 % Classic Chauffe Moyenne": {
-        "type": "Special",
-        "heatings": ["moyenne"],
-        "special": {
-            "right": {
-                "source": "Copeaux 50% Flavors",
-                "type": "Chips-Flavors",
-                "heatings": ["moyenne"],
-                "porcentage": ["50%"]
-            },
-            "left": {
-                "source": "50 % Classic Chauffe Moyenne",
-                "type": "",
-                "heatings": ["moyenne"],
-                "porcentage": ["50%"]
-            }
-        },
-        "source": "Copeaux 50% Flavors/50 % Classic Chauffe Moyenne"
-    },
     "Blocks 50% Flavors/50 % Classic Chauffe Légère": {
         "type": "Special",
         "heatings": ["légère"],

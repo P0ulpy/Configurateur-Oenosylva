@@ -16,6 +16,7 @@
 .response-title {
     font-size: 20pt;
     text-transform: uppercase;
+    font-weight: bold;
 }
 
 .products-lines-container {
