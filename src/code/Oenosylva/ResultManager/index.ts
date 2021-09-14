@@ -1,7 +1,7 @@
 import { Data } from "../../lib/Calculator";
 import UIElement from "../../lib/UIElement";
 import ContactBuilder from "./Contact/ContactBuilder";
-import ProductsBuilder from "./ProductsBuilder";
+import ProductsBuilder from "./ProductsBuilder/index";
 
 export default class ResultManager
 {

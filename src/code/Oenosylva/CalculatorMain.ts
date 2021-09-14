@@ -6,7 +6,7 @@ import "../../vendors/materialize.min.js";
 import { ConfiguratorPathes } from "../lib/Calculator";
 import Calculator from "../lib/Calculator";
 import ChoicesManager from "./ChoicesManager/ChoicesManager";
-import ResultManager from "./ResultManager";
+import ResultManager from "./ResultManager/index";
 import { DebugLevel } from "../lib/Debug";
 
 /*export function buildLangButtons(container : string, onclickFR, onclickEN)

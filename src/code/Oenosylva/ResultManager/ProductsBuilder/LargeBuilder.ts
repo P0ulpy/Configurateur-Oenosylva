@@ -1,4 +1,4 @@
-import ProductsBuilder from ".";
+import ProductsBuilder from "./ProductBuilder";
 import { Data } from "../../../lib/Calculator";
 import Debug from "../../../lib/Debug";
 import ProductBuilder, { Product } from "./ProductBuilder";

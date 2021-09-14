@@ -1,5 +1,4 @@
-import { EntryOptionPlugin } from "webpack";
-import ResultManager from "..";
+import ResultManager from "../index";
 import { Data } from "../../../lib/Calculator";
 import UIElement from "../../../lib/UIElement";
 
